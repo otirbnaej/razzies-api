@@ -1,0 +1,30 @@
+# Diretórios
+node_modules/
+dist/
+coverage/
+
+# Arquivos
+.env
+.env.development
+.env.local
+.env.*.local
+
+# Arquivos de configuração do editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+yarn.lock
+
+# Cache e arquivos temporários
+*.swp
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados pelo TypeScript
+*.js
+*.js.map
