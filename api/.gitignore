@@ -28,3 +28,5 @@ Thumbs.db
 # Arquivos gerados pelo TypeScript
 *.js
 *.js.map
+
+src/shared/infra/temp

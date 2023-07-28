@@ -1,8 +1,12 @@
-import dotEnv from 'dotenv';
+const dotEnv = require('dotenv');
+
+const path = require('path');
 
 dotEnv.config({ path: '.env' });
 
-switch (process.env.NODE_ENV) {
+const ENV = process.env.NODE_ENV?.trim();
+
+switch (ENV) {
   case 'development':
     dotEnv.config({ path: '.env.development' });
     break;

@@ -1,13 +1,15 @@
 import 'reflect-metadata';
 import './utils/module-alias';
 
+import '@config/env';
+
 import bodyParser from 'body-parser';
 import cors from 'cors';
 import express from 'express';
 
-import CelebrateErrorHandler from '@shared/infra/http/middlewares/CelebrateErrorHandler'
+import CelebrateErrorHandler from '@shared/infra/http/middlewares/CelebrateErrorHandler';
 import ErrorHandler from '@shared/infra/http/middlewares/ErrorHandler';
-import routes from './routes';
+import routes from './shared/infra/http/routes';
 
 const app = express();
 
