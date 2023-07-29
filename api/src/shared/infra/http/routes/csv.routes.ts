@@ -1,6 +1,6 @@
 import { Router } from 'express';
 import multer from 'multer';
-import ImportMoviesController from '../controllers/ImportMoviesController';
+import ImportCSVController from '../controllers/ImportCSVController';
 
 const storage = multer.diskStorage({
   destination: 'src/shared/infra/temp',
@@ -13,10 +13,6 @@ const upload = multer({ storage });
 
 const routes = Router();
 
-routes.post(
-  '/upload-csv',
-  upload.single('movielist'),
-  ImportMoviesController.create,
-);
+routes.post('/upload', upload.single('movielist'), ImportCSVController.create);
 
 export default routes;
