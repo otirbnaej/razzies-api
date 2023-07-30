@@ -3,11 +3,11 @@ import { Request, Response } from 'express';
 
 class FindWinningGapController {
   public async show(request: Request, response: Response) {
-    const personService = new FindWinningGapService();
+    const findWinningGap = new FindWinningGapService();
 
-    const interactions = await personService.execute();
+    const data = await findWinningGap.execute();
 
-    return response.json(interactions);
+    return response.json(data);
   }
 }
 
