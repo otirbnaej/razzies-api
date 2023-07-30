@@ -3,7 +3,6 @@ const FileSync = require('lowdb/adapters/FileSync');
 
 const adapter = new FileSync('db.json');
 
-// Inicialize o banco de dados
 const db = low(adapter);
 
 if (!db.has('movies').value()) {

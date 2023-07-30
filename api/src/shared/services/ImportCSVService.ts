@@ -3,15 +3,17 @@ import csvParser from 'csv-parser';
 import db from '@src/shared/infra/lowdb/db';
 import { IMovieDTO } from '@src/modules/movies/dtos/IMovieDTO';
 import { v4 as uuidv4 } from 'uuid';
+import { clearDB } from '@src/utils/clearDB';
 
 const allStudios: string[] = [];
 const allProducers: string[] = [];
 
 export default class ImportCSVService {
-  public async execute(filepath: any) {
+  public async execute(filepath: string) {
+    clearDB();
     fs.createReadStream(filepath)
       .pipe(csvParser({ separator: ';' }))
-      .on('data', (row: any) => {
+      .on('data', (row) => {
         const movieData: IMovieDTO = {
           id: Date.now().toString(),
           year: row.year,
@@ -31,7 +33,7 @@ export default class ImportCSVService {
           })
           .write();
 
-        studios.forEach(async studio => {
+        studios.forEach(studio => {
           const studioExists = allStudios.includes(studio);
           if (!studioExists) {
             db.get('studios').push({ id: uuidv4(), name: studio }).write();
@@ -41,7 +43,6 @@ export default class ImportCSVService {
 
         producers.forEach(producer => {
           const producerExists = allProducers.includes(producer);
-
           if (!producerExists) {
             db.get('producers').push({ id: uuidv4(), name: producer }).write();
             allProducers.push(producer);
