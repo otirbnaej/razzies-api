@@ -8,5 +8,5 @@ moduleAlias.addAliases({
   '@modules': path.join(files, 'src/modules'),
   '@config': path.join(files, 'src/shared/config'),
   '@shared': path.join(files, 'src/shared'),
-  '@test': path.join(files, 'test'),
+  '@tests': path.join(files, 'src/__tests__'),
 });
