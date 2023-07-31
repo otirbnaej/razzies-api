@@ -1,19 +1,20 @@
 import fs from 'fs';
 import csvParser from 'csv-parser';
 import db from '@src/shared/infra/lowdb/db';
-import { IMovieDTO } from '@src/modules/movies/dtos/IMovieDTO';
 import { v4 as uuidv4 } from 'uuid';
-import { clearDB } from '@src/utils/clearDB';
+
+import { IMovieDTO } from '@src/modules/movies/dtos/IMovieDTO';
+import { ClearDB } from '@src/utils/clearDB';
 
 const allStudios: string[] = [];
 const allProducers: string[] = [];
 
 export default class ImportCSVService {
   public async execute(filepath: string) {
-    clearDB();
+    ClearDB();
     fs.createReadStream(filepath)
       .pipe(csvParser({ separator: ';' }))
-      .on('data', (row) => {
+      .on('data', row => {
         const movieData: IMovieDTO = {
           id: Date.now().toString(),
           year: row.year,
@@ -48,9 +49,6 @@ export default class ImportCSVService {
             allProducers.push(producer);
           }
         });
-      })
-      .on('end', () => {
-        console.log('CSV processing completed.');
       });
   }
 }

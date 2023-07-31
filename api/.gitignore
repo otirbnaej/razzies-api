@@ -26,7 +26,7 @@ yarn.lock
 Thumbs.db
 
 # Arquivos gerados pelo TypeScript
-*.js
-*.js.map
+# *.js
+# *.js.map
 
-src/shared/infra/temp
+src/shared/infra/temp/movielist.csv

@@ -1,0 +1,4471 @@
+{
+  "movies": [
+    {
+      "id": "1690730471647",
+      "year": "1980",
+      "title": "Can't Stop the Music",
+      "winner": true,
+      "studios": [
+        "Associated Film Distribution"
+      ],
+      "producers": [
+        "Allan Carr"
+      ]
+    },
+    {
+      "id": "1690730471649",
+      "year": "1980",
+      "title": "Cruising",
+      "winner": false,
+      "studios": [
+        "Lorimar Productions",
+        "United Artists"
+      ],
+      "producers": [
+        "Jerry Weintraub"
+      ]
+    },
+    {
+      "id": "1690730471650",
+      "year": "1980",
+      "title": "The Formula",
+      "winner": false,
+      "studios": [
+        "MGM",
+        "United Artists"
+      ],
+      "producers": [
+        "Steve Shagan"
+      ]
+    },
+    {
+      "id": "1690730471651",
+      "year": "1980",
+      "title": "Friday the 13th",
+      "winner": false,
+      "studios": [
+        "Paramount Pictures"
+      ],
+      "producers": [
+        "Sean S. Cunningham"
+      ]
+    },
+    {
+      "id": "1690730471652",
+      "year": "1980",
+      "title": "The Nude Bomb",
+      "winner": false,
+      "studios": [
+        "Universal Studios"
+      ],
+      "producers": [
+        "Jennings Lang"
+      ]
+    },
+    {
+      "id": "1690730471653",
+      "year": "1980",
+      "title": "The Jazz Singer",
+      "winner": false,
+      "studios": [
+        "Associated Film Distribution"
+      ],
+      "producers": [
+        "Jerry Leider"
+      ]
+    },
+    {
+      "id": "1690730471654",
+      "year": "1980",
+      "title": "Raise the Titanic",
+      "winner": false,
+      "studios": [
+        "Associated Film Distribution"
+      ],
+      "producers": [
+        "William Frye"
+      ]
+    },
+    {
+      "id": "1690730471655",
+      "year": "1980",
+      "title": "Saturn 3",
+      "winner": false,
+      "studios": [
+        "Associated Film Distribution"
+      ],
+      "producers": [
+        "Stanley Donen"
+      ]
+    },
+    {
+      "id": "1690730471655",
+      "year": "1980",
+      "title": "Windows",
+      "winner": false,
+      "studios": [
+        "United Artists"
+      ],
+      "producers": [
+        "Mike Lobell"
+      ]
+    },
+    {
+      "id": "1690730471656",
+      "year": "1980",
+      "title": "Xanadu",
+      "winner": false,
+      "studios": [
+        "Universal Studios"
+      ],
+      "producers": [
+        "Lawrence Gordon"
+      ]
+    },
+    {
+      "id": "1690730471657",
+      "year": "1981",
+      "title": "Mommie Dearest",
+      "winner": true,
+      "studios": [
+        "Paramount Pictures"
+      ],
+      "producers": [
+        "Frank Yablans"
+      ]
+    },
+    {
+      "id": "1690730471657",
+      "year": "1981",
+      "title": "Endless Love",
+      "winner": false,
+      "studios": [
+        "Universal Studios",
+        "PolyGram"
+      ],
+      "producers": [
+        "Dyson Lovell"
+      ]
+    },
+    {
+      "id": "1690730471658",
+      "year": "1981",
+      "title": "Heaven's Gate",
+      "winner": false,
+      "studios": [
+        "United Artists"
+      ],
+      "producers": [
+        "Joann Carelli"
+      ]
+    },
+    {
+      "id": "1690730471659",
+      "year": "1981",
+      "title": "The Legend of the Lone Ranger",
+      "winner": false,
+      "studios": [
+        "Universal Studios",
+        "Associated Film Distribution"
+      ],
+      "producers": [
+        "Walter Coblenz"
+      ]
+    },
+    {
+      "id": "1690730471660",
+      "year": "1981",
+      "title": "Tarzan, the Ape Man",
+      "winner": false,
+      "studios": [
+        "MGM",
+        "United Artists"
+      ],
+      "producers": [
+        "John Derek"
+      ]
+    },
+    {
+      "id": "1690730471660",
+      "year": "1982",
+      "title": "Inchon",
+      "winner": true,
+      "studios": [
+        "MGM"
+      ],
+      "producers": [
+        "Mitsuharu Ishii"
+      ]
+    },
+    {
+      "id": "1690730471661",
+      "year": "1982",
+      "title": "Annie",
+      "winner": false,
+      "studios": [
+        "Columbia Pictures"
+      ],
+      "producers": [
+        "Ray Stark"
+      ]
+    },
+    {
+      "id": "1690730471662",
+      "year": "1982",
+      "title": "Butterfly",
+      "winner": false,
+      "studios": [
+        "Analysis Film Releasing"
+      ],
+      "producers": [
+        "Matt Cimber"
+      ]
+    },
+    {
+      "id": "1690730471663",
+      "year": "1982",
+      "title": "Megaforce",
+      "winner": false,
+      "studios": [
+        "20th Century Fox"
+      ],
+      "producers": [
+        "Albert S. Ruddy"
+      ]
+    },
+    {
+      "id": "1690730471664",
+      "year": "1982",
+      "title": "The Pirate Movie",
+      "winner": false,
+      "studios": [
+        "20th Century Fox"
+      ],
+      "producers": [
+        "David Joseph"
+      ]
+    },
+    {
+      "id": "1690730471664",
+      "year": "1983",
+      "title": "The Lonely Lady",
+      "winner": true,
+      "studios": [
+        "Universal Studios"
+      ],
+      "producers": [
+        "Robert R. Weston"
+      ]
+    },
+    {
+      "id": "1690730471665",
+      "year": "1983",
+      "title": "Hercules",
+      "winner": false,
+      "studios": [
+        "MGM",
+        "United Artists",
+        "Cannon Films"
+      ],
+      "producers": [
+        "Yoram Globus",
+        "Menahem Golan"
+      ]
+    },
+    {
+      "id": "1690730471666",
+      "year": "1983",
+      "title": "Jaws 3-D",
+      "winner": false,
+      "studios": [
+        "Universal Studios"
+      ],
+      "producers": [
+        "Rupert Hitzig"
+      ]
+    },
+    {
+      "id": "1690730471667",
+      "year": "1983",
+      "title": "Stroker Ace",
+      "winner": false,
+      "studios": [
+        "Warner Bros.",
+        "Universal Studios"
+      ],
+      "producers": [
+        "Hank Moonjean"
+      ]
+    },
+    {
+      "id": "1690730471668",
+      "year": "1983",
+      "title": "Two of a Kind",
+      "winner": false,
+      "studios": [
+        "20th Century Fox"
+      ],
+      "producers": [
+        "Roger M. Rothstein",
+        "Joe Wizan"
+      ]
+    },
+    {
+      "id": "1690730471669",
+      "year": "1984",
+      "title": "Bolero",
+      "winner": true,
+      "studios": [
+        "Cannon Films"
+      ],
+      "producers": [
+        "Bo Derek"
+      ]
+    },
+    {
+      "id": "1690730471670",
+      "year": "1984",
+      "title": "Cannonball Run II",
+      "winner": false,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Albert S. Ruddy"
+      ]
+    },
+    {
+      "id": "1690730471670",
+      "year": "1984",
+      "title": "Rhinestone",
+      "winner": false,
+      "studios": [
+        "20th Century Fox"
+      ],
+      "producers": [
+        "Marvin Worth",
+        "Howard Smith"
+      ]
+    },
+    {
+      "id": "1690730471671",
+      "year": "1984",
+      "title": "Sheena",
+      "winner": false,
+      "studios": [
+        "Columbia Pictures"
+      ],
+      "producers": [
+        "Paul Aratow"
+      ]
+    },
+    {
+      "id": "1690730471672",
+      "year": "1984",
+      "title": "Where the Boys Are '84",
+      "winner": false,
+      "studios": [
+        "TriStar Pictures"
+      ],
+      "producers": [
+        "Allan Carr"
+      ]
+    },
+    {
+      "id": "1690730471673",
+      "year": "1985",
+      "title": "Rambo: First Blood Part II",
+      "winner": true,
+      "studios": [
+        "Columbia Pictures"
+      ],
+      "producers": [
+        "Buzz Feitshans"
+      ]
+    },
+    {
+      "id": "1690730471674",
+      "year": "1985",
+      "title": "Fever Pitch",
+      "winner": false,
+      "studios": [
+        "MGM",
+        "United Artists"
+      ],
+      "producers": [
+        "Freddie Fields"
+      ]
+    },
+    {
+      "id": "1690730471675",
+      "year": "1985",
+      "title": "Revolution",
+      "winner": false,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Irwin Winkler"
+      ]
+    },
+    {
+      "id": "1690730471675",
+      "year": "1985",
+      "title": "Rocky IV",
+      "winner": false,
+      "studios": [
+        "MGM",
+        "United Artists"
+      ],
+      "producers": [
+        "Irwin Winkler",
+        "Robert Chartoff"
+      ]
+    },
+    {
+      "id": "1690730471676",
+      "year": "1985",
+      "title": "Year of the Dragon",
+      "winner": false,
+      "studios": [
+        "MGM",
+        "United Artists"
+      ],
+      "producers": [
+        "Dino De Laurentiis"
+      ]
+    },
+    {
+      "id": "1690730471677",
+      "year": "1986",
+      "title": "Howard the Duck",
+      "winner": true,
+      "studios": [
+        "Universal Studios"
+      ],
+      "producers": [
+        "Gloria Katz"
+      ]
+    },
+    {
+      "id": "1690730471678",
+      "year": "1986",
+      "title": "Under the Cherry Moon",
+      "winner": true,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Bob Cavallo",
+        "Joe Ruffalo",
+        "Steve Fargnoli"
+      ]
+    },
+    {
+      "id": "1690730471680",
+      "year": "1986",
+      "title": "Blue City",
+      "winner": false,
+      "studios": [
+        "Paramount Pictures"
+      ],
+      "producers": [
+        "William L. Hayward",
+        "Walter Hill"
+      ]
+    },
+    {
+      "id": "1690730471681",
+      "year": "1986",
+      "title": "Cobra",
+      "winner": false,
+      "studios": [
+        "Warner Bros.",
+        "Cannon Films"
+      ],
+      "producers": [
+        "Yoram Globus",
+        "Menahem Golan"
+      ]
+    },
+    {
+      "id": "1690730471681",
+      "year": "1986",
+      "title": "Shanghai Surprise",
+      "winner": false,
+      "studios": [
+        "MGM"
+      ],
+      "producers": [
+        "John Kohn"
+      ]
+    },
+    {
+      "id": "1690730471682",
+      "year": "1987",
+      "title": "Leonard Part 6",
+      "winner": true,
+      "studios": [
+        "Columbia Pictures"
+      ],
+      "producers": [
+        "Bill Cosby"
+      ]
+    },
+    {
+      "id": "1690730471683",
+      "year": "1987",
+      "title": "Ishtar",
+      "winner": false,
+      "studios": [
+        "Columbia Pictures"
+      ],
+      "producers": [
+        "Warren Beatty"
+      ]
+    },
+    {
+      "id": "1690730471684",
+      "year": "1987",
+      "title": "Jaws: The Revenge",
+      "winner": false,
+      "studios": [
+        "Universal Studios"
+      ],
+      "producers": [
+        "Joseph Sargent"
+      ]
+    },
+    {
+      "id": "1690730471684",
+      "year": "1987",
+      "title": "Tough Guys Don't Dance",
+      "winner": false,
+      "studios": [
+        "Cannon Films"
+      ],
+      "producers": [
+        "Yoram Globus",
+        "Menahem Golan"
+      ]
+    },
+    {
+      "id": "1690730471685",
+      "year": "1987",
+      "title": "Who's That Girl",
+      "winner": false,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Rosilyn Heller",
+        "Bernard Williams"
+      ]
+    },
+    {
+      "id": "1690730471686",
+      "year": "1988",
+      "title": "Cocktail",
+      "winner": true,
+      "studios": [
+        "Touchstone Pictures"
+      ],
+      "producers": [
+        "Ted Field",
+        "Robert W. Cort"
+      ]
+    },
+    {
+      "id": "1690730471688",
+      "year": "1988",
+      "title": "Caddyshack II",
+      "winner": false,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Neil Canton",
+        "Jon Peters",
+        "Peter Guber"
+      ]
+    },
+    {
+      "id": "1690730471689",
+      "year": "1988",
+      "title": "Hot to Trot",
+      "winner": false,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Steve Tisch"
+      ]
+    },
+    {
+      "id": "1690730471690",
+      "year": "1988",
+      "title": "Mac and Me",
+      "winner": false,
+      "studios": [
+        "Orion Pictures"
+      ],
+      "producers": [
+        "R. J. Louis"
+      ]
+    },
+    {
+      "id": "1690730471692",
+      "year": "1988",
+      "title": "Rambo III",
+      "winner": false,
+      "studios": [
+        "TriStar Pictures",
+        "Carolco Pictures"
+      ],
+      "producers": [
+        "Buzz Feitshans"
+      ]
+    },
+    {
+      "id": "1690730471693",
+      "year": "1989",
+      "title": "Star Trek V: The Final Frontier",
+      "winner": true,
+      "studios": [
+        "Paramount Pictures"
+      ],
+      "producers": [
+        "Harve Bennett"
+      ]
+    },
+    {
+      "id": "1690730471693",
+      "year": "1989",
+      "title": "The Karate Kid Part III",
+      "winner": false,
+      "studios": [
+        "Columbia Pictures"
+      ],
+      "producers": [
+        "Jerry Weintraub"
+      ]
+    },
+    {
+      "id": "1690730471694",
+      "year": "1989",
+      "title": "Lock Up",
+      "winner": false,
+      "studios": [
+        "TriStar Pictures",
+        "Carolco Pictures"
+      ],
+      "producers": [
+        "Charles Gordon",
+        "Lawrence Gordon"
+      ]
+    },
+    {
+      "id": "1690730471695",
+      "year": "1989",
+      "title": "Road House",
+      "winner": false,
+      "studios": [
+        "United Artists"
+      ],
+      "producers": [
+        "Joel Silver"
+      ]
+    },
+    {
+      "id": "1690730471695",
+      "year": "1989",
+      "title": "Speed Zone",
+      "winner": false,
+      "studios": [
+        "Orion Pictures"
+      ],
+      "producers": [
+        "Murray Shostack"
+      ]
+    },
+    {
+      "id": "1690730471696",
+      "year": "1990",
+      "title": "The Adventures of Ford Fairlane",
+      "winner": true,
+      "studios": [
+        "20th Century Fox"
+      ],
+      "producers": [
+        "Steven Perry",
+        "Joel Silver"
+      ]
+    },
+    {
+      "id": "1690730471697",
+      "year": "1990",
+      "title": "Ghosts Can't Do It",
+      "winner": true,
+      "studios": [
+        "Triumph Releasing"
+      ],
+      "producers": [
+        "Bo Derek"
+      ]
+    },
+    {
+      "id": "1690730471698",
+      "year": "1990",
+      "title": "The Bonfire of the Vanities",
+      "winner": false,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Brian De Palma"
+      ]
+    },
+    {
+      "id": "1690730471699",
+      "year": "1990",
+      "title": "Graffiti Bridge",
+      "winner": false,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Randy Phillips",
+        "Craig Rice"
+      ]
+    },
+    {
+      "id": "1690730471700",
+      "year": "1990",
+      "title": "Rocky V",
+      "winner": false,
+      "studios": [
+        "United Artists"
+      ],
+      "producers": [
+        "Robert Chartoff",
+        "Irwin Winkler"
+      ]
+    },
+    {
+      "id": "1690730471700",
+      "year": "1991",
+      "title": "Hudson Hawk",
+      "winner": true,
+      "studios": [
+        "TriStar Pictures"
+      ],
+      "producers": [
+        "Joel Silver"
+      ]
+    },
+    {
+      "id": "1690730471701",
+      "year": "1991",
+      "title": "Cool as Ice",
+      "winner": false,
+      "studios": [
+        "Universal Studios"
+      ],
+      "producers": [
+        "Carolyn Pfeiffer",
+        "Lionel Wingram"
+      ]
+    },
+    {
+      "id": "1690730471702",
+      "year": "1991",
+      "title": "Dice Rules",
+      "winner": false,
+      "studios": [
+        "Seven Arts Productions"
+      ],
+      "producers": [
+        "Loucas George"
+      ]
+    },
+    {
+      "id": "1690730471704",
+      "year": "1991",
+      "title": "Nothing but Trouble",
+      "winner": false,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Lester Berman",
+        "Robert K. Weiss"
+      ]
+    },
+    {
+      "id": "1690730471705",
+      "year": "1991",
+      "title": "Return to the Blue Lagoon",
+      "winner": false,
+      "studios": [
+        "Columbia Pictures"
+      ],
+      "producers": [
+        "William A. Graham"
+      ]
+    },
+    {
+      "id": "1690730471706",
+      "year": "1992",
+      "title": "Shining Through",
+      "winner": true,
+      "studios": [
+        "20th Century Fox"
+      ],
+      "producers": [
+        "Carol Baum",
+        "Howard Rosenman"
+      ]
+    },
+    {
+      "id": "1690730471707",
+      "year": "1992",
+      "title": "The Bodyguard",
+      "winner": false,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Kevin Costner",
+        "Lawrence Kasdan",
+        "Jim Wilson"
+      ]
+    },
+    {
+      "id": "1690730471709",
+      "year": "1992",
+      "title": "Christopher Columbus: The Discovery",
+      "winner": false,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Alexander Salkind",
+        "Ilya Salkind"
+      ]
+    },
+    {
+      "id": "1690730471710",
+      "year": "1992",
+      "title": "Final Analysis",
+      "winner": false,
+      "studios": [
+        "20th Century Fox"
+      ],
+      "producers": [
+        "Paul Junger Witt",
+        "Charles Roven",
+        "Tony Thomas"
+      ]
+    },
+    {
+      "id": "1690730471712",
+      "year": "1992",
+      "title": "Newsies",
+      "winner": false,
+      "studios": [
+        "Walt Disney Pictures"
+      ],
+      "producers": [
+        "Michael Finnell"
+      ]
+    },
+    {
+      "id": "1690730471713",
+      "year": "1993",
+      "title": "Indecent Proposal",
+      "winner": true,
+      "studios": [
+        "Paramount Pictures"
+      ],
+      "producers": [
+        "Sherry Lansing"
+      ]
+    },
+    {
+      "id": "1690730471714",
+      "year": "1993",
+      "title": "Body of Evidence",
+      "winner": false,
+      "studios": [
+        "MGM",
+        "United Artists"
+      ],
+      "producers": [
+        "Dino De Laurentiis"
+      ]
+    },
+    {
+      "id": "1690730471715",
+      "year": "1993",
+      "title": "Cliffhanger",
+      "winner": false,
+      "studios": [
+        "TriStar Pictures",
+        "Carolco Pictures"
+      ],
+      "producers": [
+        "Renny Harlin",
+        "Alan Marshall"
+      ]
+    },
+    {
+      "id": "1690730471716",
+      "year": "1993",
+      "title": "Last Action Hero",
+      "winner": false,
+      "studios": [
+        "Columbia Pictures"
+      ],
+      "producers": [
+        "John McTiernan",
+        "Stephen J. Roth"
+      ]
+    },
+    {
+      "id": "1690730471718",
+      "year": "1993",
+      "title": "Sliver",
+      "winner": false,
+      "studios": [
+        "Paramount Pictures"
+      ],
+      "producers": [
+        "Robert Evans"
+      ]
+    },
+    {
+      "id": "1690730471719",
+      "year": "1994",
+      "title": "Color of Night",
+      "winner": true,
+      "studios": [
+        "Hollywood Pictures"
+      ],
+      "producers": [
+        "Buzz Feitshans",
+        "David Matalon"
+      ]
+    },
+    {
+      "id": "1690730471720",
+      "year": "1994",
+      "title": "North",
+      "winner": false,
+      "studios": [
+        "Columbia Pictures",
+        "Castle Rock Entertainment"
+      ],
+      "producers": [
+        "Rob Reiner",
+        "Alan Zweibel"
+      ]
+    },
+    {
+      "id": "1690730471722",
+      "year": "1994",
+      "title": "On Deadly Ground",
+      "winner": false,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "A. Kitman Ho",
+        "Julius R. Nasso",
+        "Steven Seagal"
+      ]
+    },
+    {
+      "id": "1690730471724",
+      "year": "1994",
+      "title": "The Specialist",
+      "winner": false,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Jerry Weintraub"
+      ]
+    },
+    {
+      "id": "1690730471724",
+      "year": "1994",
+      "title": "Wyatt Earp",
+      "winner": false,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Kevin Costner",
+        "Lawrence Kasdan",
+        "Jim Wilson"
+      ]
+    },
+    {
+      "id": "1690730471724",
+      "year": "1995",
+      "title": "Showgirls",
+      "winner": true,
+      "studios": [
+        "MGM",
+        "United Artists"
+      ],
+      "producers": [
+        "Charles Evans",
+        "Alan Marshall"
+      ]
+    },
+    {
+      "id": "1690730471725",
+      "year": "1995",
+      "title": "Congo",
+      "winner": false,
+      "studios": [
+        "Paramount Pictures"
+      ],
+      "producers": [
+        "Kathleen Kennedy",
+        "Sam Mercer"
+      ]
+    },
+    {
+      "id": "1690730471727",
+      "year": "1995",
+      "title": "It's Pat",
+      "winner": false,
+      "studios": [
+        "Touchstone Pictures"
+      ],
+      "producers": [
+        "Charles B. Wessler"
+      ]
+    },
+    {
+      "id": "1690730471728",
+      "year": "1995",
+      "title": "The Scarlet Letter",
+      "winner": false,
+      "studios": [
+        "Hollywood Pictures"
+      ],
+      "producers": [
+        "Roland Joffé",
+        "Andrew G. Vajna"
+      ]
+    },
+    {
+      "id": "1690730471729",
+      "year": "1995",
+      "title": "Waterworld",
+      "winner": false,
+      "studios": [
+        "Universal Studios"
+      ],
+      "producers": [
+        "Kevin Costner",
+        "John Davis",
+        "Charles Gordon",
+        "Lawrence Gordon"
+      ]
+    },
+    {
+      "id": "1690730471730",
+      "year": "1996",
+      "title": "Striptease",
+      "winner": true,
+      "studios": [
+        "Columbia Pictures",
+        "Castle Rock Entertainment"
+      ],
+      "producers": [
+        "Andrew Bergman",
+        "Mike Lobell"
+      ]
+    },
+    {
+      "id": "1690730471731",
+      "year": "1996",
+      "title": "Barb Wire",
+      "winner": false,
+      "studios": [
+        "PolyGram Filmed Entertainment",
+        "Gramercy Pictures"
+      ],
+      "producers": [
+        "Todd Moyer",
+        "Mike Richardson",
+        "Brad Wyman"
+      ]
+    },
+    {
+      "id": "1690730471734",
+      "year": "1996",
+      "title": "Ed",
+      "winner": false,
+      "studios": [
+        "Universal Studios"
+      ],
+      "producers": [
+        "Rosalie Swedlin"
+      ]
+    },
+    {
+      "id": "1690730471735",
+      "year": "1996",
+      "title": "The Island of Dr. Moreau",
+      "winner": false,
+      "studios": [
+        "New Line Cinema"
+      ],
+      "producers": [
+        "Edward R. Pressman"
+      ]
+    },
+    {
+      "id": "1690730471736",
+      "year": "1996",
+      "title": "The Stupids",
+      "winner": false,
+      "studios": [
+        "New Line Cinema",
+        "Savoy Pictures"
+      ],
+      "producers": [
+        "Leslie Belzberg"
+      ]
+    },
+    {
+      "id": "1690730471738",
+      "year": "1997",
+      "title": "The Postman",
+      "winner": true,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Kevin Costner",
+        "Steve Tisch",
+        "Jim Wilson"
+      ]
+    },
+    {
+      "id": "1690730471739",
+      "year": "1997",
+      "title": "Anaconda",
+      "winner": false,
+      "studios": [
+        "Columbia Pictures"
+      ],
+      "producers": [
+        "Verna Harrah",
+        "Carole Little",
+        "Leonard Rabinowitz"
+      ]
+    },
+    {
+      "id": "1690730471741",
+      "year": "1997",
+      "title": "Batman & Robin",
+      "winner": false,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Peter MacGregor-Scott"
+      ]
+    },
+    {
+      "id": "1690730471742",
+      "year": "1997",
+      "title": "Fire Down Below",
+      "winner": false,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Julius R. Nasso",
+        "Steven Seagal"
+      ]
+    },
+    {
+      "id": "1690730471742",
+      "year": "1997",
+      "title": "Speed 2: Cruise Control",
+      "winner": false,
+      "studios": [
+        "20th Century Fox"
+      ],
+      "producers": [
+        "Jan de Bont",
+        "Steve Perry",
+        "Michael Peyser"
+      ]
+    },
+    {
+      "id": "1690730471744",
+      "year": "1998",
+      "title": "An Alan Smithee Film: Burn Hollywood Burn",
+      "winner": true,
+      "studios": [
+        "Hollywood Pictures"
+      ],
+      "producers": [
+        "Ben Myron",
+        "Joe Eszterhas"
+      ]
+    },
+    {
+      "id": "1690730471746",
+      "year": "1998",
+      "title": "Armageddon",
+      "winner": false,
+      "studios": [
+        "Touchstone Pictures"
+      ],
+      "producers": [
+        "Michael Bay",
+        "Jerry Bruckheimer"
+      ]
+    },
+    {
+      "id": "1690730471747",
+      "year": "1998",
+      "title": "The Avengers",
+      "winner": false,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Jerry Weintraub"
+      ]
+    },
+    {
+      "id": "1690730471748",
+      "year": "1998",
+      "title": "Godzilla",
+      "winner": false,
+      "studios": [
+        "TriStar Pictures"
+      ],
+      "producers": [
+        "Roland Emmerich",
+        "Dean Devlin"
+      ]
+    },
+    {
+      "id": "1690730471749",
+      "year": "1998",
+      "title": "Spice World",
+      "winner": false,
+      "studios": [
+        "Columbia Pictures"
+      ],
+      "producers": [
+        "Uri Fruchtan",
+        "Mark L. Rosen",
+        "Barnaby Thompson"
+      ]
+    },
+    {
+      "id": "1690730471751",
+      "year": "1999",
+      "title": "Wild Wild West",
+      "winner": true,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Jon Peters",
+        "Barry Sonnenfeld"
+      ]
+    },
+    {
+      "id": "1690730471752",
+      "year": "1999",
+      "title": "Big Daddy",
+      "winner": false,
+      "studios": [
+        "Columbia Pictures"
+      ],
+      "producers": [
+        "Sidney Ganis",
+        "Jack Giarraputo"
+      ]
+    },
+    {
+      "id": "1690730471754",
+      "year": "1999",
+      "title": "The Blair Witch Project",
+      "winner": false,
+      "studios": [
+        "Artisan Entertainment"
+      ],
+      "producers": [
+        "Robin Cowie",
+        "Gregg Hale"
+      ]
+    },
+    {
+      "id": "1690730471756",
+      "year": "1999",
+      "title": "The Haunting",
+      "winner": false,
+      "studios": [
+        "DreamWorks"
+      ],
+      "producers": [
+        "Susan Arthur",
+        "Donna Roth",
+        "Colin Wilson"
+      ]
+    },
+    {
+      "id": "1690730471758",
+      "year": "1999",
+      "title": "Star Wars: Episode I – The Phantom Menace",
+      "winner": false,
+      "studios": [
+        "20th Century Fox"
+      ],
+      "producers": [
+        "Rick McCallum",
+        "George Lucas"
+      ]
+    },
+    {
+      "id": "1690730471760",
+      "year": "2000",
+      "title": "Battlefield Earth",
+      "winner": true,
+      "studios": [
+        "Warner Bros.",
+        "Franchise Pictures"
+      ],
+      "producers": [
+        "Jonathan D. Krane",
+        "Elie Samaha",
+        "John Travolta"
+      ]
+    },
+    {
+      "id": "1690730471763",
+      "year": "2000",
+      "title": "Book of Shadows: Blair Witch 2",
+      "winner": false,
+      "studios": [
+        "Artisan Entertainment"
+      ],
+      "producers": [
+        "Bill Carraro"
+      ]
+    },
+    {
+      "id": "1690730471764",
+      "year": "2000",
+      "title": "The Flintstones in Viva Rock Vegas",
+      "winner": false,
+      "studios": [
+        "Universal Studios"
+      ],
+      "producers": [
+        "Bruce Cohen"
+      ]
+    },
+    {
+      "id": "1690730471764",
+      "year": "2000",
+      "title": "Little Nicky",
+      "winner": false,
+      "studios": [
+        "New Line Cinema"
+      ],
+      "producers": [
+        "Jack Giarraputo",
+        "Robert Simonds"
+      ]
+    },
+    {
+      "id": "1690730471765",
+      "year": "2000",
+      "title": "The Next Best Thing",
+      "winner": false,
+      "studios": [
+        "Paramount Pictures"
+      ],
+      "producers": [
+        "Leslie Dixon",
+        "Linne Radmin",
+        "Tom Rosenberg"
+      ]
+    },
+    {
+      "id": "1690730471768",
+      "year": "2001",
+      "title": "Freddy Got Fingered",
+      "winner": true,
+      "studios": [
+        "20th Century Fox"
+      ],
+      "producers": [
+        "Larry Brezner",
+        "Howard Lapides",
+        "Lauren Lloyd"
+      ]
+    },
+    {
+      "id": "1690730471769",
+      "year": "2001",
+      "title": "Driven",
+      "winner": false,
+      "studios": [
+        "Warner Bros.",
+        "Franchise Pictures"
+      ],
+      "producers": [
+        "Renny Harlin",
+        "Elie Samaha",
+        "Sylvester Stallone"
+      ]
+    },
+    {
+      "id": "1690730471771",
+      "year": "2001",
+      "title": "Glitter",
+      "winner": false,
+      "studios": [
+        "20th Century Fox",
+        "Columbia Pictures"
+      ],
+      "producers": [
+        "Laurence Mark",
+        "E. Bennett Walsh"
+      ]
+    },
+    {
+      "id": "1690730471772",
+      "year": "2001",
+      "title": "Pearl Harbor",
+      "winner": false,
+      "studios": [
+        "Touchstone Pictures"
+      ],
+      "producers": [
+        "Michael Bay",
+        "Jerry Bruckheimer"
+      ]
+    },
+    {
+      "id": "1690730471773",
+      "year": "2001",
+      "title": "3000 Miles to Graceland",
+      "winner": false,
+      "studios": [
+        "Warner Bros.",
+        "Franchise Pictures"
+      ],
+      "producers": [
+        "Demian Lichtenstein",
+        "Eric Manes",
+        "Elie Samaha",
+        "Richard Spero",
+        "Andrew Stevens"
+      ]
+    },
+    {
+      "id": "1690730471775",
+      "year": "2002",
+      "title": "Swept Away",
+      "winner": true,
+      "studios": [
+        "Screen Gems"
+      ],
+      "producers": [
+        "Matthew Vaughn"
+      ]
+    },
+    {
+      "id": "1690730471777",
+      "year": "2002",
+      "title": "The Adventures of Pluto Nash",
+      "winner": false,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Martin Bregman",
+        "Michael Scott Bregman",
+        "Louis A. Stroller"
+      ]
+    },
+    {
+      "id": "1690730471779",
+      "year": "2002",
+      "title": "Crossroads",
+      "winner": false,
+      "studios": [
+        "Paramount Pictures"
+      ],
+      "producers": [
+        "Ann Carli"
+      ]
+    },
+    {
+      "id": "1690730471780",
+      "year": "2002",
+      "title": "Pinocchio",
+      "winner": false,
+      "studios": [
+        "Miramax Films"
+      ],
+      "producers": [
+        "Gianluigi Braschi",
+        "Nicoletta Braschi",
+        "Elda Ferri"
+      ]
+    },
+    {
+      "id": "1690730471783",
+      "year": "2002",
+      "title": "Star Wars: Episode II – Attack of the Clones",
+      "winner": false,
+      "studios": [
+        "20th Century Fox"
+      ],
+      "producers": [
+        "Rick McCallum",
+        "George Lucas"
+      ]
+    },
+    {
+      "id": "1690730471783",
+      "year": "2003",
+      "title": "Gigli",
+      "winner": true,
+      "studios": [
+        "Columbia Pictures",
+        "Revolution Studios"
+      ],
+      "producers": [
+        "Martin Brest",
+        "Casey Silver"
+      ]
+    },
+    {
+      "id": "1690730471785",
+      "year": "2003",
+      "title": "The Cat in the Hat",
+      "winner": false,
+      "studios": [
+        "Universal Studios",
+        "DreamWorks"
+      ],
+      "producers": [
+        "Brian Grazer"
+      ]
+    },
+    {
+      "id": "1690730471786",
+      "year": "2003",
+      "title": "Charlie's Angels: Full Throttle",
+      "winner": false,
+      "studios": [
+        "Columbia Pictures"
+      ],
+      "producers": [
+        "Drew Barrymore",
+        "Leonard Goldberg",
+        "Nancy Juvonen"
+      ]
+    },
+    {
+      "id": "1690730471789",
+      "year": "2003",
+      "title": "From Justin to Kelly",
+      "winner": false,
+      "studios": [
+        "20th Century Fox"
+      ],
+      "producers": [
+        "John Steven Agoglia"
+      ]
+    },
+    {
+      "id": "1690730471790",
+      "year": "2003",
+      "title": "The Real Cancun",
+      "winner": false,
+      "studios": [
+        "New Line Cinema"
+      ],
+      "producers": [
+        "Mary-Ellis Bunim",
+        "Jonathan Murray",
+        "Jamie Schutz",
+        "Rick de Oliveira"
+      ]
+    },
+    {
+      "id": "1690730471793",
+      "year": "2004",
+      "title": "Catwoman",
+      "winner": true,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Denise Di Novi",
+        "Edward McDonnell"
+      ]
+    },
+    {
+      "id": "1690730471795",
+      "year": "2004",
+      "title": "Alexander",
+      "winner": false,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Moritz Borman",
+        "Jon Kilik",
+        "Thomas Schuhly",
+        "Iain Smith"
+      ]
+    },
+    {
+      "id": "1690730471798",
+      "year": "2004",
+      "title": "Superbabies: Baby Geniuses 2",
+      "winner": false,
+      "studios": [
+        "Triumph Films"
+      ],
+      "producers": [
+        "Steven Paul"
+      ]
+    },
+    {
+      "id": "1690730471800",
+      "year": "2004",
+      "title": "Surviving Christmas",
+      "winner": false,
+      "studios": [
+        "DreamWorks"
+      ],
+      "producers": [
+        "Betty Thomas",
+        "Jenno Topping"
+      ]
+    },
+    {
+      "id": "1690730471801",
+      "year": "2004",
+      "title": "White Chicks",
+      "winner": false,
+      "studios": [
+        "Columbia Pictures",
+        "Revolution Studios"
+      ],
+      "producers": [
+        "Rick Alvarez",
+        "Lee R. Mayes",
+        "Keenen Ivory Wayans",
+        "Marlon Wayans",
+        "Shawn Wayans"
+      ]
+    },
+    {
+      "id": "1690730471805",
+      "year": "2005",
+      "title": "Dirty Love",
+      "winner": true,
+      "studios": [
+        "First Look Pictures"
+      ],
+      "producers": [
+        "John Mallory Asher",
+        "BJ Davis",
+        "Rod Hamilton",
+        "Kimberley Kates",
+        "Michael Manasseri",
+        "Jenny McCarthy",
+        "Trent Walford"
+      ]
+    },
+    {
+      "id": "1690730471810",
+      "year": "2005",
+      "title": "Deuce Bigalow: European Gigolo",
+      "winner": false,
+      "studios": [
+        "Columbia Pictures"
+      ],
+      "producers": [
+        "Adam Sandler",
+        "Rob Schneider"
+      ]
+    },
+    {
+      "id": "1690730471812",
+      "year": "2005",
+      "title": "The Dukes of Hazzard",
+      "winner": false,
+      "studios": [
+        "Warner Bros.",
+        "Village Roadshow"
+      ],
+      "producers": [
+        "Bill Gerber"
+      ]
+    },
+    {
+      "id": "1690730471814",
+      "year": "2005",
+      "title": "House of Wax",
+      "winner": false,
+      "studios": [
+        "Warner Bros.",
+        "Village Roadshow"
+      ],
+      "producers": [
+        "Susan Levin",
+        "Joel Silver",
+        "Robert Zemeckis"
+      ]
+    },
+    {
+      "id": "1690730471816",
+      "year": "2005",
+      "title": "Son of the Mask",
+      "winner": false,
+      "studios": [
+        "New Line Cinema"
+      ],
+      "producers": [
+        "Erica Huggins",
+        "Scott Kroopf"
+      ]
+    },
+    {
+      "id": "1690730471818",
+      "year": "2006",
+      "title": "Basic Instinct 2",
+      "winner": true,
+      "studios": [
+        "MGM",
+        "C2 Pictures"
+      ],
+      "producers": [
+        "Mario Kassar",
+        "Joel B. Michaels",
+        "Andrew G. Vajna"
+      ]
+    },
+    {
+      "id": "1690730471821",
+      "year": "2006",
+      "title": "BloodRayne",
+      "winner": false,
+      "studios": [
+        "Romar Entertainment"
+      ],
+      "producers": [
+        "Uwe Boll",
+        "Dan Clarke",
+        "Wolfgang Herrold"
+      ]
+    },
+    {
+      "id": "1690730471824",
+      "year": "2006",
+      "title": "Lady in the Water",
+      "winner": false,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Sam Mercer",
+        "Jose L. Rodriguez",
+        "M. Night Shyamalan"
+      ]
+    },
+    {
+      "id": "1690730471825",
+      "year": "2006",
+      "title": "Little Man",
+      "winner": false,
+      "studios": [
+        "Columbia Pictures",
+        "Revolution Studios"
+      ],
+      "producers": [
+        "Rick Alvares",
+        "Lee Mays",
+        "Marlon Wayans",
+        "Shawn Wayans"
+      ]
+    },
+    {
+      "id": "1690730471828",
+      "year": "2006",
+      "title": "The Wicker Man",
+      "winner": false,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Nicolas Cage",
+        "Randall Emmett",
+        "Norm Golightly",
+        "Avi Lerner",
+        "Joanne Sellar"
+      ]
+    },
+    {
+      "id": "1690730471831",
+      "year": "2007",
+      "title": "I Know Who Killed Me",
+      "winner": false,
+      "studios": [
+        "TriStar Pictures"
+      ],
+      "producers": [
+        "David Grace",
+        "Frank Mancuso Jr."
+      ]
+    },
+    {
+      "id": "1690730471836",
+      "year": "2007",
+      "title": "Bratz",
+      "winner": false,
+      "studios": [
+        "Lionsgate"
+      ],
+      "producers": [
+        "Avi Arad",
+        "Isaac Larian",
+        "Steven Paul"
+      ]
+    },
+    {
+      "id": "1690730471839",
+      "year": "2007",
+      "title": "Daddy Day Camp",
+      "winner": false,
+      "studios": [
+        "TriStar Pictures",
+        "Revolution Studios"
+      ],
+      "producers": [
+        "Matt Berenson",
+        "John Davis",
+        "Wyck Godfrey"
+      ]
+    },
+    {
+      "id": "1690730471840",
+      "year": "2007",
+      "title": "I Now Pronounce You Chuck & Larry",
+      "winner": false,
+      "studios": [
+        "Universal Studios"
+      ],
+      "producers": [
+        "Adam Sandler",
+        "Tom Shadyac"
+      ]
+    },
+    {
+      "id": "1690730471842",
+      "year": "2007",
+      "title": "Norbit",
+      "winner": false,
+      "studios": [
+        "DreamWorks"
+      ],
+      "producers": [
+        "John Davis",
+        "Eddie Murphy",
+        "Michael Tollin"
+      ]
+    },
+    {
+      "id": "1690730471844",
+      "year": "2008",
+      "title": "The Love Guru",
+      "winner": true,
+      "studios": [
+        "Paramount Pictures"
+      ],
+      "producers": [
+        "Gary Barber",
+        "Michael DeLuca",
+        "Mike Myers"
+      ]
+    },
+    {
+      "id": "1690730471846",
+      "year": "2008",
+      "title": "Disaster Movie and Meet the Spartans",
+      "winner": false,
+      "studios": [
+        "Lionsgate",
+        "20th Century Fox"
+      ],
+      "producers": [
+        "Jason Friedberg",
+        "Peter Safran",
+        "Aaron Seltzer"
+      ]
+    },
+    {
+      "id": "1690730471849",
+      "year": "2008",
+      "title": "The Happening",
+      "winner": false,
+      "studios": [
+        "20th Century Fox"
+      ],
+      "producers": [
+        "Barry Mendel",
+        "Sam Mercer",
+        "M. Night Shyamalan"
+      ]
+    },
+    {
+      "id": "1690730471850",
+      "year": "2008",
+      "title": "The Hottie & the Nottie",
+      "winner": false,
+      "studios": [
+        "Regent Releasing"
+      ],
+      "producers": [
+        "Hadeel Reda"
+      ]
+    },
+    {
+      "id": "1690730471852",
+      "year": "2008",
+      "title": "In the Name of the King",
+      "winner": false,
+      "studios": [
+        "Boll KG",
+        "Brightlight Pictures"
+      ],
+      "producers": [
+        "Uwe Boll",
+        "Dan Clarke",
+        "Wolfgang Herrold",
+        "Shawn Williamson"
+      ]
+    },
+    {
+      "id": "1690730471854",
+      "year": "2009",
+      "title": "Transformers: Revenge of the Fallen",
+      "winner": true,
+      "studios": [
+        "Paramount Pictures",
+        "DreamWorks",
+        "Hasbro"
+      ],
+      "producers": [
+        "Lorenzo di Bonaventura",
+        "Ian Bryce",
+        "Tom DeSanto",
+        "Don Murphy"
+      ]
+    },
+    {
+      "id": "1690730471858",
+      "year": "2009",
+      "title": "All About Steve",
+      "winner": false,
+      "studios": [
+        "20th Century Fox"
+      ],
+      "producers": [
+        "Sandra Bullock",
+        "Mary McLaglen"
+      ]
+    },
+    {
+      "id": "1690730471860",
+      "year": "2009",
+      "title": "G.I. Joe: The Rise of Cobra",
+      "winner": false,
+      "studios": [
+        "Paramount Pictures",
+        "Hasbro"
+      ],
+      "producers": [
+        "Lorenzo di Bonaventura",
+        "Bob Ducsay",
+        "Brian Goldner"
+      ]
+    },
+    {
+      "id": "1690730471862",
+      "year": "2009",
+      "title": "Land of the Lost",
+      "winner": false,
+      "studios": [
+        "Universal Studios"
+      ],
+      "producers": [
+        "Sid",
+        "Marty Krofft",
+        "Jimmy Miller"
+      ]
+    },
+    {
+      "id": "1690730471865",
+      "year": "2009",
+      "title": "Old Dogs",
+      "winner": false,
+      "studios": [
+        "Walt Disney Pictures"
+      ],
+      "producers": [
+        "Peter Abrams",
+        "Robert Levy",
+        "Andrew Panay"
+      ]
+    },
+    {
+      "id": "1690730471868",
+      "year": "2010",
+      "title": "The Last Airbender",
+      "winner": true,
+      "studios": [
+        "Paramount Pictures",
+        "Nickelodeon Movies"
+      ],
+      "producers": [
+        "Frank Marshall",
+        "Kathleen Kennedy",
+        "Sam Mercer",
+        "M. Night Shyamalan"
+      ]
+    },
+    {
+      "id": "1690730471871",
+      "year": "2010",
+      "title": "The Bounty Hunter",
+      "winner": false,
+      "studios": [
+        "Columbia Pictures"
+      ],
+      "producers": [
+        "Neal H. Moritz"
+      ]
+    },
+    {
+      "id": "1690730471872",
+      "year": "2010",
+      "title": "Sex and the City 2",
+      "winner": false,
+      "studios": [
+        "New Line Cinema",
+        "HBO Films",
+        "Village Roadshow Pictures"
+      ],
+      "producers": [
+        "Michael Patrick King",
+        "John Melfi",
+        "Sarah Jessica Parker",
+        "Darren Star"
+      ]
+    },
+    {
+      "id": "1690730471877",
+      "year": "2010",
+      "title": "The Twilight Saga: Eclipse",
+      "winner": false,
+      "studios": [
+        "Summit Entertainment"
+      ],
+      "producers": [
+        "Wyck Godfrey",
+        "Karen Rosenfelt"
+      ]
+    },
+    {
+      "id": "1690730471880",
+      "year": "2010",
+      "title": "Vampires Suck",
+      "winner": false,
+      "studios": [
+        "20th Century Fox"
+      ],
+      "producers": [
+        "Jason Friedberg",
+        "Peter Safran",
+        "Aaron Seltzer"
+      ]
+    },
+    {
+      "id": "1690730471881",
+      "year": "2011",
+      "title": "Jack and Jill",
+      "winner": true,
+      "studios": [
+        "Columbia Pictures"
+      ],
+      "producers": [
+        "Todd Garner",
+        "Jack Giarraputo",
+        "Adam Sandler"
+      ]
+    },
+    {
+      "id": "1690730471884",
+      "year": "2011",
+      "title": "Bucky Larson: Born to Be a Star",
+      "winner": false,
+      "studios": [
+        "Columbia Pictures"
+      ],
+      "producers": [
+        "Barry Bernardi",
+        "Allen Covert",
+        "David Dorfman",
+        "Jack Giarraputo"
+      ]
+    },
+    {
+      "id": "1690730471887",
+      "year": "2011",
+      "title": "New Year's Eve",
+      "winner": false,
+      "studios": [
+        "Warner Bros.",
+        "New Line Cinema"
+      ],
+      "producers": [
+        "Mike Karz",
+        "Garry Marshall",
+        "Wayne Allan Rice"
+      ]
+    },
+    {
+      "id": "1690730471890",
+      "year": "2011",
+      "title": "Transformers: Dark of the Moon",
+      "winner": false,
+      "studios": [
+        "Paramount Pictures"
+      ],
+      "producers": [
+        "Lorenzo di Bonaventura",
+        "Ian Bryce",
+        "Tom DeSanto",
+        "Don Murphy"
+      ]
+    },
+    {
+      "id": "1690730471891",
+      "year": "2011",
+      "title": "The Twilight Saga: Breaking Dawn – Part 1",
+      "winner": false,
+      "studios": [
+        "Summit Entertainment"
+      ],
+      "producers": [
+        "Wyck Godfrey",
+        "Stephenie Meyer",
+        "Karen Rosenfelt"
+      ]
+    },
+    {
+      "id": "1690730471893",
+      "year": "2012",
+      "title": "The Twilight Saga: Breaking Dawn – Part 2",
+      "winner": true,
+      "studios": [
+        "Summit Entertainment"
+      ],
+      "producers": [
+        "Wyck Godfrey",
+        "Stephenie Meyer",
+        "Karen Rosenfelt"
+      ]
+    },
+    {
+      "id": "1690730471894",
+      "year": "2012",
+      "title": "Battleship",
+      "winner": false,
+      "studios": [
+        "Universal Studios"
+      ],
+      "producers": [
+        "Sarah Aubrey",
+        "Peter Berg",
+        "Brian Goldner",
+        "Duncan Henderson",
+        "Bennett Schneir",
+        "Scott Stuber"
+      ]
+    },
+    {
+      "id": "1690730471898",
+      "year": "2012",
+      "title": "The Oogieloves in the Big Balloon Adventure",
+      "winner": false,
+      "studios": [
+        "Lionsgate Films",
+        "Romar Entertainment",
+        "Kenn Viselman Presents"
+      ],
+      "producers": [
+        "Gayle Dickie",
+        "Kenn Viselman"
+      ]
+    },
+    {
+      "id": "1690730471902",
+      "year": "2012",
+      "title": "That's My Boy",
+      "winner": false,
+      "studios": [
+        "Columbia Pictures"
+      ],
+      "producers": [
+        "Allen Covert",
+        "Jack Giarraputo",
+        "Heather Parry",
+        "Adam Sandler"
+      ]
+    },
+    {
+      "id": "1690730471904",
+      "year": "2012",
+      "title": "A Thousand Words",
+      "winner": false,
+      "studios": [
+        "Paramount Pictures",
+        "DreamWorks"
+      ],
+      "producers": [
+        "Nicolas Cage",
+        "Alain Chabat",
+        "Stephanie Danan",
+        "Norman Golightly",
+        "Brian Robbinsand Sharla Sumpter Bridgett"
+      ]
+    },
+    {
+      "id": "1690730471908",
+      "year": "2013",
+      "title": "Movie 43",
+      "winner": true,
+      "studios": [
+        "Relativity Media"
+      ],
+      "producers": [
+        "Peter Farrelly",
+        "Ryan Kavanaugh",
+        "John Penotti",
+        "Charles B. Wessler"
+      ]
+    },
+    {
+      "id": "1690730471912",
+      "year": "2013",
+      "title": "After Earth",
+      "winner": false,
+      "studios": [
+        "Columbia Pictures"
+      ],
+      "producers": [
+        "James Lassiter",
+        "Caleeb Pinkett",
+        "Jada Pinkett Smith",
+        "M. Night Shyamalan",
+        "Will Smith",
+        "Jaden Smith"
+      ]
+    },
+    {
+      "id": "1690730471917",
+      "year": "2013",
+      "title": "Grown Ups 2",
+      "winner": false,
+      "studios": [
+        "Columbia Pictures"
+      ],
+      "producers": [
+        "Jack Giarraputo",
+        "Adam Sandler"
+      ]
+    },
+    {
+      "id": "1690730471918",
+      "year": "2013",
+      "title": "The Lone Ranger",
+      "winner": false,
+      "studios": [
+        "Walt Disney Pictures"
+      ],
+      "producers": [
+        "Jerry Bruckheimer",
+        "Gore Verbinski"
+      ]
+    },
+    {
+      "id": "1690730471920",
+      "year": "2013",
+      "title": "A Madea Christmas",
+      "winner": false,
+      "studios": [
+        "Lionsgate"
+      ],
+      "producers": [
+        "Ozzie Areu",
+        "Matt Moore",
+        "Tyler Perry"
+      ]
+    },
+    {
+      "id": "1690730471923",
+      "year": "2014",
+      "title": "Saving Christmas",
+      "winner": true,
+      "studios": [
+        "Samuel Goldwyn Films"
+      ],
+      "producers": [
+        "Darren Doane",
+        "Raphi Henley",
+        "Amanda Rosser",
+        "David Shannon"
+      ]
+    },
+    {
+      "id": "1690730471928",
+      "year": "2014",
+      "title": "Left Behind",
+      "winner": false,
+      "studios": [
+        "Freestyle Releasing",
+        "Entertainment One"
+      ],
+      "producers": [
+        "Michael Walker",
+        "Paul LaLonde"
+      ]
+    },
+    {
+      "id": "1690730471931",
+      "year": "2014",
+      "title": "The Legend of Hercules",
+      "winner": false,
+      "studios": [
+        "Summit Entertainment"
+      ],
+      "producers": [
+        "Boaz Davidson",
+        "Renny Harlin",
+        "Danny Lerner",
+        "Les Weldon"
+      ]
+    },
+    {
+      "id": "1690730471934",
+      "year": "2014",
+      "title": "Teenage Mutant Ninja Turtles",
+      "winner": false,
+      "studios": [
+        "Paramount Pictures",
+        "Nickelodeon Movies",
+        "Platinum Dunes"
+      ],
+      "producers": [
+        "Michael Bay",
+        "Ian Bryce",
+        "Andrew Form",
+        "Bradley Fuller",
+        "Scott Mednick",
+        "Galen Walker"
+      ]
+    },
+    {
+      "id": "1690730471939",
+      "year": "2014",
+      "title": "Transformers: Age of Extinction",
+      "winner": false,
+      "studios": [
+        "Paramount Pictures"
+      ],
+      "producers": [
+        "Ian Bryce",
+        "Tom DeSanto",
+        "Lorenzo di Bonaventura",
+        "Don Murphy"
+      ]
+    },
+    {
+      "id": "1690730471940",
+      "year": "2015",
+      "title": "Fantastic Four",
+      "winner": true,
+      "studios": [
+        "20th Century Fox"
+      ],
+      "producers": [
+        "Simon Kinberg",
+        "Matthew Vaughn",
+        "Hutch Parker",
+        "Robert Kulzer",
+        "Gregory Goodman"
+      ]
+    },
+    {
+      "id": "1690730471944",
+      "year": "2015",
+      "title": "Fifty Shades of Grey",
+      "winner": true,
+      "studios": [
+        "Universal Pictures",
+        "Focus Features"
+      ],
+      "producers": [
+        "Michael De Luca",
+        "Dana Brunetti",
+        "E. L. James"
+      ]
+    },
+    {
+      "id": "1690730471949",
+      "year": "2015",
+      "title": "Jupiter Ascending",
+      "winner": false,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Grant Hill",
+        "The Wachowskis"
+      ]
+    },
+    {
+      "id": "1690730471951",
+      "year": "2015",
+      "title": "Paul Blart: Mall Cop 2",
+      "winner": false,
+      "studios": [
+        "Columbia Pictures"
+      ],
+      "producers": [
+        "Todd Garner",
+        "Kevin James",
+        "Adam Sandler"
+      ]
+    },
+    {
+      "id": "1690730471953",
+      "year": "2015",
+      "title": "Pixels",
+      "winner": false,
+      "studios": [
+        "Columbia Pictures"
+      ],
+      "producers": [
+        "Adam Sandler",
+        "Chris Columbus",
+        "Mark Radcliffe",
+        "Allen Covert"
+      ]
+    },
+    {
+      "id": "1690730471956",
+      "year": "2016",
+      "title": "Hillary's America: The Secret History of the Democratic Party",
+      "winner": true,
+      "studios": [
+        "Quality Flix"
+      ],
+      "producers": [
+        "Gerald R. Molen"
+      ]
+    },
+    {
+      "id": "1690730471961",
+      "year": "2016",
+      "title": "Batman v Superman: Dawn of Justice",
+      "winner": false,
+      "studios": [
+        "Warner Bros."
+      ],
+      "producers": [
+        "Charles Roven",
+        "Deborah Snyder"
+      ]
+    },
+    {
+      "id": "1690730471964",
+      "year": "2016",
+      "title": "Dirty Grandpa",
+      "winner": false,
+      "studios": [
+        "Lionsgate"
+      ],
+      "producers": [
+        "Bill Block",
+        "Michael Simkin",
+        "Jason Barrett",
+        "Barry Josephson"
+      ]
+    },
+    {
+      "id": "1690730471968",
+      "year": "2016",
+      "title": "Gods of Egypt",
+      "winner": false,
+      "studios": [
+        "Summit Entertainment"
+      ],
+      "producers": [
+        "Basil Iwanyk",
+        "Alex Proyas"
+      ]
+    },
+    {
+      "id": "1690730471971",
+      "year": "2016",
+      "title": "Independence Day: Resurgence",
+      "winner": false,
+      "studios": [
+        "20th Century Fox"
+      ],
+      "producers": [
+        "Dean Devlin",
+        "Harald Kloser",
+        "Roland Emmerich"
+      ]
+    },
+    {
+      "id": "1690730471973",
+      "year": "2016",
+      "title": "Zoolander 2",
+      "winner": false,
+      "studios": [
+        "Paramount Pictures"
+      ],
+      "producers": [
+        "Stuart Cornfeld",
+        "Scott Rudin",
+        "Ben Stiller",
+        "Clayton Townsend"
+      ]
+    },
+    {
+      "id": "1690730471978",
+      "year": "2017",
+      "title": "The Emoji Movie",
+      "winner": true,
+      "studios": [
+        "Columbia Pictures"
+      ],
+      "producers": [
+        "Michelle Raimo Kouyate"
+      ]
+    },
+    {
+      "id": "1690730471979",
+      "year": "2017",
+      "title": "Baywatch",
+      "winner": false,
+      "studios": [
+        "Paramount Pictures"
+      ],
+      "producers": [
+        "Ivan Reitman",
+        "Michael Berk",
+        "Douglas Schwartz",
+        "Gregory J. Bonann",
+        "Beau Flynn"
+      ]
+    },
+    {
+      "id": "1690730471985",
+      "year": "2017",
+      "title": "Fifty Shades Darker",
+      "winner": false,
+      "studios": [
+        "Universal Pictures"
+      ],
+      "producers": [
+        "Michael De Luca",
+        "E. L. James",
+        "Dana Brunetti",
+        "Marcus Viscidi"
+      ]
+    },
+    {
+      "id": "1690730471986",
+      "year": "2017",
+      "title": "The Mummy",
+      "winner": false,
+      "studios": [
+        "Universal Pictures"
+      ],
+      "producers": [
+        "Alex Kurtzman",
+        "Chris Morgan",
+        "Sean Daniel",
+        "Sarah Bradshaw"
+      ]
+    },
+    {
+      "id": "1690730471991",
+      "year": "2017",
+      "title": "Transformers: The Last Knight",
+      "winner": false,
+      "studios": [
+        "Paramount Pictures"
+      ],
+      "producers": [
+        "Don Murphy",
+        "Tom DeSanto",
+        "Lorenzo di Bonaventura",
+        "Ian Bryce"
+      ]
+    },
+    {
+      "id": "1690730471992",
+      "year": "2018",
+      "title": "Holmes & Watson",
+      "winner": true,
+      "studios": [
+        "Columbia Pictures"
+      ],
+      "producers": [
+        "Will Ferrell",
+        "Adam McKay",
+        "Jimmy Miller",
+        "Clayton Townsend"
+      ]
+    },
+    {
+      "id": "1690730471995",
+      "year": "2018",
+      "title": "Gotti",
+      "winner": false,
+      "studios": [
+        "Vertical Entertainment"
+      ],
+      "producers": [
+        "Randall Emmett",
+        "Marc Fiore",
+        "Michael Froch",
+        "George Furla"
+      ]
+    },
+    {
+      "id": "1690730471999",
+      "year": "2018",
+      "title": "The Happytime Murders",
+      "winner": false,
+      "studios": [
+        "STX"
+      ],
+      "producers": [
+        "Ben Falcone",
+        "Jeffrey Hayes",
+        "Brian Henson",
+        "Melissa McCarthy"
+      ]
+    },
+    {
+      "id": "1690730472004",
+      "year": "2018",
+      "title": "Robin Hood",
+      "winner": false,
+      "studios": [
+        "Summit Entertainment"
+      ],
+      "producers": [
+        "Jennifer Davisson",
+        "Leonardo DiCaprio"
+      ]
+    },
+    {
+      "id": "1690730472007",
+      "year": "2018",
+      "title": "Winchester",
+      "winner": false,
+      "studios": [
+        "Lionsgate"
+      ],
+      "producers": [
+        "Tim McGahan",
+        "Brett Tomberlin"
+      ]
+    },
+    {
+      "id": "1690730472010",
+      "year": "2019",
+      "title": "Cats",
+      "winner": true,
+      "studios": [
+        "Universal Pictures"
+      ],
+      "producers": [
+        "Debra Hayward",
+        "Tim Bevan",
+        "Eric Fellner",
+        "and Tom Hooper"
+      ]
+    },
+    {
+      "id": "1690730472014",
+      "year": "2019",
+      "title": "The Fanatic",
+      "winner": false,
+      "studios": [
+        "Quiver Distribution"
+      ],
+      "producers": [
+        "Daniel Grodnik",
+        "Oscar Generale",
+        "and Bill Kenwright"
+      ]
+    },
+    {
+      "id": "1690730472018",
+      "year": "2019",
+      "title": "The Haunting of Sharon Tate",
+      "winner": false,
+      "studios": [
+        "Saban Films"
+      ],
+      "producers": [
+        "Lucas Jarach",
+        "Daniel Farrands",
+        "and Eric Brenner"
+      ]
+    },
+    {
+      "id": "1690730472023",
+      "year": "2019",
+      "title": "A Madea Family Funeral",
+      "winner": false,
+      "studios": [
+        "Lionsgate"
+      ],
+      "producers": [
+        "Ozzie Areu",
+        "Will Areu",
+        "and Mark E. Swinton"
+      ]
+    },
+    {
+      "id": "1690730472026",
+      "year": "2019",
+      "title": "Rambo: Last Blood",
+      "winner": false,
+      "studios": [
+        "Lionsgate"
+      ],
+      "producers": [
+        "Avi Lerner",
+        "Kevin King Templeton",
+        "Yariv Lerner",
+        "and Les Weldon"
+      ]
+    }
+  ],
+  "studios": [
+    {
+      "id": "367c3ec7-a4a3-44fb-891b-33c8880da951",
+      "name": "Associated Film Distribution"
+    },
+    {
+      "id": "befe8e99-0643-45b4-be67-f3e8ad68e13a",
+      "name": "Lorimar Productions"
+    },
+    {
+      "id": "1cccd62f-6f94-4ce2-bd8f-aa8f95753b54",
+      "name": "United Artists"
+    },
+    {
+      "id": "1e301883-71b7-4d59-872f-175451a4c73a",
+      "name": "MGM"
+    },
+    {
+      "id": "b2fad09d-d68f-4e3c-b4c8-9cbf69c3d693",
+      "name": "Paramount Pictures"
+    },
+    {
+      "id": "33e2f70c-d858-4cab-8369-677a6f1e7a43",
+      "name": "Universal Studios"
+    },
+    {
+      "id": "0e6da76c-b63e-4968-a950-93a96aeecc4a",
+      "name": "PolyGram"
+    },
+    {
+      "id": "61c238ff-8579-4023-9605-8dae1f8f9603",
+      "name": "Columbia Pictures"
+    },
+    {
+      "id": "67512ab6-8e51-4b87-b249-93e9612bf882",
+      "name": "Analysis Film Releasing"
+    },
+    {
+      "id": "f1a810f6-198f-46ed-b06b-522e49f9b147",
+      "name": "20th Century Fox"
+    },
+    {
+      "id": "346b05e4-f728-45df-ba18-7c9974e347e5",
+      "name": "Cannon Films"
+    },
+    {
+      "id": "27976edc-32a1-4ffb-adc2-2fb212ed153c",
+      "name": "Warner Bros."
+    },
+    {
+      "id": "82400020-8934-4736-9c93-60384cdbd649",
+      "name": "TriStar Pictures"
+    },
+    {
+      "id": "66572a53-cda0-4ff3-8173-515e054c7645",
+      "name": "Touchstone Pictures"
+    },
+    {
+      "id": "cb5ebf2a-2f87-453c-a787-eade762812c8",
+      "name": "Orion Pictures"
+    },
+    {
+      "id": "79b4d1ec-6ffc-4c93-8d49-2a2198a9e867",
+      "name": "Carolco Pictures"
+    },
+    {
+      "id": "6e3f08fc-5849-4dc4-aa4c-08ccdc34fd35",
+      "name": "Triumph Releasing"
+    },
+    {
+      "id": "6b622ef6-6a44-48f0-be2d-eef169a30215",
+      "name": "Seven Arts Productions"
+    },
+    {
+      "id": "841a0872-fb23-4701-ad60-e34c6abf7073",
+      "name": "Walt Disney Pictures"
+    },
+    {
+      "id": "1bf31e8c-53d1-48ac-84fd-a529553c4ede",
+      "name": "Hollywood Pictures"
+    },
+    {
+      "id": "82938398-81d0-4ce1-b689-efe2884817f6",
+      "name": "Castle Rock Entertainment"
+    },
+    {
+      "id": "bc2b8582-58e3-4cfc-9ce1-32d56ce1e886",
+      "name": "PolyGram Filmed Entertainment"
+    },
+    {
+      "id": "c8c85f9a-e305-429c-b204-3084c5a2bf31",
+      "name": "Gramercy Pictures"
+    },
+    {
+      "id": "4ca4425c-9bc4-4d17-8c15-52aed57f4613",
+      "name": "New Line Cinema"
+    },
+    {
+      "id": "52c39248-dfc9-4bcd-862b-5422abe6b2df",
+      "name": "Savoy Pictures"
+    },
+    {
+      "id": "e58bc7a3-bf04-4997-b66e-f428497e9ff5",
+      "name": "Artisan Entertainment"
+    },
+    {
+      "id": "7c527ae9-95a3-45f9-82ad-c888949eedfa",
+      "name": "DreamWorks"
+    },
+    {
+      "id": "29c3c4e8-25cb-4567-ab5b-95bdc4130a2a",
+      "name": "Franchise Pictures"
+    },
+    {
+      "id": "665a52a8-943f-4940-a666-36893cc4e9ba",
+      "name": "Screen Gems"
+    },
+    {
+      "id": "1422c2d4-055e-4701-b536-0e4df5192819",
+      "name": "Miramax Films"
+    },
+    {
+      "id": "188f4da0-e524-46e0-9d1d-423feda3fe76",
+      "name": "Revolution Studios"
+    },
+    {
+      "id": "16a5a115-1e45-4f9e-9132-e84ad6a98f4e",
+      "name": "Triumph Films"
+    },
+    {
+      "id": "c51ca270-6e8b-4b28-aef5-0884562831e7",
+      "name": "First Look Pictures"
+    },
+    {
+      "id": "e53d6ea9-9e6a-4cd9-ad60-b251d0ed83d9",
+      "name": "Village Roadshow"
+    },
+    {
+      "id": "6c3e35c4-4ddb-4530-9f64-cc98f6ff472b",
+      "name": "C2 Pictures"
+    },
+    {
+      "id": "43ed03f6-27f6-4d70-a22a-c2e9588fe4a7",
+      "name": "Romar Entertainment"
+    },
+    {
+      "id": "2e946f7e-9977-405d-aaf7-4e681d6b6b75",
+      "name": "Lionsgate"
+    },
+    {
+      "id": "d1864c26-244b-407f-a6a4-65c561fdf6dc",
+      "name": "Regent Releasing"
+    },
+    {
+      "id": "eaf90c9a-bb0a-4fff-84d5-49d4fc36d128",
+      "name": "Boll KG"
+    },
+    {
+      "id": "fa513c18-f39b-4daf-a6bc-0ed4a989cb62",
+      "name": "Brightlight Pictures"
+    },
+    {
+      "id": "89c855bd-36d3-40bb-a064-9b5fb5b9aeac",
+      "name": "Hasbro"
+    },
+    {
+      "id": "01d2c0ae-2260-4136-b1ee-24a45e17ec1f",
+      "name": "Nickelodeon Movies"
+    },
+    {
+      "id": "9babd65c-4459-4e9c-832f-e315524dd442",
+      "name": "HBO Films"
+    },
+    {
+      "id": "fe6f8b40-36c3-40b5-a96d-ec66d0c44f15",
+      "name": "Village Roadshow Pictures"
+    },
+    {
+      "id": "0aaabab4-dc78-48dc-b8c0-fa6eab5067da",
+      "name": "Summit Entertainment"
+    },
+    {
+      "id": "d936be6f-2b4c-40fb-bf16-bd0ec76ff277",
+      "name": "Lionsgate Films"
+    },
+    {
+      "id": "7d59f844-2b5b-40fa-8dd1-0ecfece57c13",
+      "name": "Kenn Viselman Presents"
+    },
+    {
+      "id": "6ff155f0-4f6f-4594-9396-608523a63b17",
+      "name": "Relativity Media"
+    },
+    {
+      "id": "b6367ec7-b379-43ad-90ec-4684bb996bd0",
+      "name": "Samuel Goldwyn Films"
+    },
+    {
+      "id": "22821ffe-7a3d-4752-85e5-2b6a09d0e821",
+      "name": "Freestyle Releasing"
+    },
+    {
+      "id": "fa446cdd-b9a0-4cb7-84fc-bc4778ab63d2",
+      "name": "Entertainment One"
+    },
+    {
+      "id": "f2909389-b29a-4a2a-9fe1-6e7b9c53376b",
+      "name": "Platinum Dunes"
+    },
+    {
+      "id": "8371a6e0-60df-426c-be3e-7cd0ec0976a0",
+      "name": "Universal Pictures"
+    },
+    {
+      "id": "ad3c97ff-1e6a-47c0-984a-6f51e68cee89",
+      "name": "Focus Features"
+    },
+    {
+      "id": "f0a1501a-6d2c-485e-bd39-855854e72908",
+      "name": "Quality Flix"
+    },
+    {
+      "id": "aab0eeed-126b-43cc-bec3-4c0ba6200125",
+      "name": "Vertical Entertainment"
+    },
+    {
+      "id": "8be85314-b295-4827-a0ea-9d712e873199",
+      "name": "STX"
+    },
+    {
+      "id": "336452cf-b9ae-4204-89ec-1db84f63d997",
+      "name": "Quiver Distribution"
+    },
+    {
+      "id": "0208f396-b393-4e33-8d23-4ff6235e6b29",
+      "name": "Saban Films"
+    }
+  ],
+  "producers": [
+    {
+      "id": "d1b69d70-cce3-448c-9e6e-380ab8a9de7a",
+      "name": "Allan Carr"
+    },
+    {
+      "id": "211f9b4b-32c1-4cc5-9d50-92be91e3c57e",
+      "name": "Jerry Weintraub"
+    },
+    {
+      "id": "a7e58e6c-f6ef-40e7-8be7-caff31e79b54",
+      "name": "Steve Shagan"
+    },
+    {
+      "id": "6617f54e-b090-417a-96f5-7e8d956af526",
+      "name": "Sean S. Cunningham"
+    },
+    {
+      "id": "ea291106-f3f7-47da-a4d6-536f39788447",
+      "name": "Jennings Lang"
+    },
+    {
+      "id": "9ac0a617-fdca-4000-ae7c-cd60f72b1cb8",
+      "name": "Jerry Leider"
+    },
+    {
+      "id": "676ff877-6234-461a-a133-c14d96ece118",
+      "name": "William Frye"
+    },
+    {
+      "id": "339d3883-ba1a-4544-9657-c30992f12e2b",
+      "name": "Stanley Donen"
+    },
+    {
+      "id": "16af4faf-29fb-439e-a380-960247b76706",
+      "name": "Mike Lobell"
+    },
+    {
+      "id": "fc2a92ce-006e-4c4f-a485-1de39cd2d260",
+      "name": "Lawrence Gordon"
+    },
+    {
+      "id": "2d56cda7-261d-4366-88a0-aa2b0f951ee0",
+      "name": "Frank Yablans"
+    },
+    {
+      "id": "81b01c12-75d2-4636-89fe-825d579afdcb",
+      "name": "Dyson Lovell"
+    },
+    {
+      "id": "d7145deb-0ce8-492a-a72e-79d79cda38a2",
+      "name": "Joann Carelli"
+    },
+    {
+      "id": "a8ddfb4e-9ba1-490f-8fda-d249c1094bcb",
+      "name": "Walter Coblenz"
+    },
+    {
+      "id": "a9308344-bb27-4216-814a-e61fedf31241",
+      "name": "John Derek"
+    },
+    {
+      "id": "8d7b38e3-4242-485d-b4e0-c61c554a8015",
+      "name": "Mitsuharu Ishii"
+    },
+    {
+      "id": "0b58f6db-a530-4631-9712-fc64f4c2d733",
+      "name": "Ray Stark"
+    },
+    {
+      "id": "0304fe75-af4c-4007-901f-e84e48af3101",
+      "name": "Matt Cimber"
+    },
+    {
+      "id": "b8736a05-0d2d-41cd-a5d8-22f12c91a76c",
+      "name": "Albert S. Ruddy"
+    },
+    {
+      "id": "06842ee2-d414-4809-97c4-13a43ce24d3d",
+      "name": "David Joseph"
+    },
+    {
+      "id": "9bdaacf8-3291-408e-8920-c9141271cc95",
+      "name": "Robert R. Weston"
+    },
+    {
+      "id": "f7c1bde2-6142-48ee-9938-98cf77c234e8",
+      "name": "Yoram Globus"
+    },
+    {
+      "id": "50ee7857-faab-4b78-b72c-1809e810fed1",
+      "name": "Menahem Golan"
+    },
+    {
+      "id": "8a18dd0b-33b7-4c72-a6f8-d461b540f221",
+      "name": "Rupert Hitzig"
+    },
+    {
+      "id": "f9c85169-c2bc-44f1-86fe-dd49c53b1745",
+      "name": "Hank Moonjean"
+    },
+    {
+      "id": "f969c08b-c41f-4397-bc20-530fdb8155e6",
+      "name": "Roger M. Rothstein"
+    },
+    {
+      "id": "8e64a90a-0d6e-47f7-9182-044d1867eac9",
+      "name": "Joe Wizan"
+    },
+    {
+      "id": "8f15e083-21d4-4523-bd2b-08d9d24461fd",
+      "name": "Bo Derek"
+    },
+    {
+      "id": "b5dcd80e-d6be-4dc2-87fc-1285a81ace62",
+      "name": "Marvin Worth"
+    },
+    {
+      "id": "0c2e6f10-3ae3-436b-af33-5c54a2970786",
+      "name": "Howard Smith"
+    },
+    {
+      "id": "1c01fded-7c15-459e-888e-feb949802297",
+      "name": "Paul Aratow"
+    },
+    {
+      "id": "18d2dbc4-bbe6-4f14-9d67-9e9eaf65ddfc",
+      "name": "Buzz Feitshans"
+    },
+    {
+      "id": "959863e3-1fcf-4092-bd2f-1e78b4c8285e",
+      "name": "Freddie Fields"
+    },
+    {
+      "id": "f700eb95-ed87-45bd-8f94-e159d557a0c0",
+      "name": "Irwin Winkler"
+    },
+    {
+      "id": "a858f500-57fb-4b19-8dd4-ea7ebccb7a26",
+      "name": "Robert Chartoff"
+    },
+    {
+      "id": "e1e30860-acff-48d7-b304-ab729ecb854f",
+      "name": "Dino De Laurentiis"
+    },
+    {
+      "id": "ca53fbe3-2e5e-4d55-9d6b-8733e57a0257",
+      "name": "Gloria Katz"
+    },
+    {
+      "id": "f2c7f956-42f1-4238-a809-a953617b942c",
+      "name": "Bob Cavallo"
+    },
+    {
+      "id": "c796346a-5c8e-44cf-a978-b8b9e05a9f55",
+      "name": "Joe Ruffalo"
+    },
+    {
+      "id": "26e8aee8-2ac9-4832-b29d-0289fac81e71",
+      "name": "Steve Fargnoli"
+    },
+    {
+      "id": "4a7d2398-487a-4e25-b805-f7e78802d48b",
+      "name": "William L. Hayward"
+    },
+    {
+      "id": "7f7dc499-bfcf-45ba-810b-fcac81b1fbad",
+      "name": "Walter Hill"
+    },
+    {
+      "id": "33886ba4-b945-4838-bc19-3218432603ab",
+      "name": "John Kohn"
+    },
+    {
+      "id": "5b543a6a-755c-4d20-abe5-95fc64fa8151",
+      "name": "Bill Cosby"
+    },
+    {
+      "id": "360cf299-d7f0-4132-b3f1-9af7529e5681",
+      "name": "Warren Beatty"
+    },
+    {
+      "id": "e5ec8590-cd2d-43f4-aaee-1d06073f8d0a",
+      "name": "Joseph Sargent"
+    },
+    {
+      "id": "430cc263-6241-4c8f-b24b-47622baf4cbd",
+      "name": "Rosilyn Heller"
+    },
+    {
+      "id": "91f9bb4b-a926-4ec3-9336-ae45b3b95cc1",
+      "name": "Bernard Williams"
+    },
+    {
+      "id": "a22eca56-5abd-4a29-97c7-a68b307c7d88",
+      "name": "Ted Field"
+    },
+    {
+      "id": "44e46743-78d1-49f6-ba4a-cc9c0847ab53",
+      "name": "Robert W. Cort"
+    },
+    {
+      "id": "5bcd21e5-6491-4e62-b2df-fe4a6511c984",
+      "name": "Neil Canton"
+    },
+    {
+      "id": "958fb8a4-678f-40d2-8477-0cbea73fa53b",
+      "name": "Jon Peters"
+    },
+    {
+      "id": "3b9b2dfa-a8b3-412a-bff7-02e36ba7c097",
+      "name": "Peter Guber"
+    },
+    {
+      "id": "d6ac645e-5353-4ba2-9d12-b4e91ebb74cf",
+      "name": "Steve Tisch"
+    },
+    {
+      "id": "d302a99f-1595-48ab-a1cb-8bfe676a598e",
+      "name": "R. J. Louis"
+    },
+    {
+      "id": "8e413d75-10a1-4692-807b-37c780475edf",
+      "name": "Harve Bennett"
+    },
+    {
+      "id": "eaf43992-5439-4a6f-bd0c-8b3cabf856a2",
+      "name": "Charles Gordon"
+    },
+    {
+      "id": "0d0232a9-4ba0-4426-8c66-1622f5b6d496",
+      "name": "Joel Silver"
+    },
+    {
+      "id": "5b813ca5-5b6e-480a-b284-967472f4ce06",
+      "name": "Murray Shostack"
+    },
+    {
+      "id": "c175e630-a63f-4d37-a919-eb59c61a0d58",
+      "name": "Steven Perry"
+    },
+    {
+      "id": "3f7671cd-4ee4-4ed7-bf63-929f2f1f2924",
+      "name": "Brian De Palma"
+    },
+    {
+      "id": "85969099-b45e-4019-a4ba-5d5228b6eb43",
+      "name": "Randy Phillips"
+    },
+    {
+      "id": "db24b92a-bcf3-4bfb-a3ab-804b02ffe095",
+      "name": "Craig Rice"
+    },
+    {
+      "id": "7edbefd7-2af3-45b5-bedb-3c67ac0e35bf",
+      "name": "Carolyn Pfeiffer"
+    },
+    {
+      "id": "6870a15e-9535-4e0c-a338-d2213d43858c",
+      "name": "Lionel Wingram"
+    },
+    {
+      "id": "19929438-2658-484f-af2a-c3782407a578",
+      "name": "Loucas George"
+    },
+    {
+      "id": "bdb60475-fc0b-4663-bc13-564627b51d22",
+      "name": "Lester Berman"
+    },
+    {
+      "id": "92e38622-bca4-4712-802e-fa8672235bf8",
+      "name": "Robert K. Weiss"
+    },
+    {
+      "id": "9b259da2-3437-4757-8e0d-b567bea24fa6",
+      "name": "William A. Graham"
+    },
+    {
+      "id": "7ace5dcb-965f-45cc-9340-85cf62625b7e",
+      "name": "Carol Baum"
+    },
+    {
+      "id": "fac7092b-71b4-404a-84de-040156869123",
+      "name": "Howard Rosenman"
+    },
+    {
+      "id": "6b29c3ec-baaf-4d4c-8c57-27fe0dd3f730",
+      "name": "Kevin Costner"
+    },
+    {
+      "id": "bcb4c192-6513-44f3-9780-e0d3c61e2176",
+      "name": "Lawrence Kasdan"
+    },
+    {
+      "id": "c77c399e-93b5-42f6-bf42-45c44183e5cf",
+      "name": "Jim Wilson"
+    },
+    {
+      "id": "a00da2d2-6280-43cf-a763-9bb9d8c4de94",
+      "name": "Alexander Salkind"
+    },
+    {
+      "id": "7701b1ee-bcac-4a09-92b5-564628535e8e",
+      "name": "Ilya Salkind"
+    },
+    {
+      "id": "39aeafd3-a63d-4381-acea-d39a9d527641",
+      "name": "Paul Junger Witt"
+    },
+    {
+      "id": "98108fa3-e5d1-45dd-bc48-e85df9e162b7",
+      "name": "Charles Roven"
+    },
+    {
+      "id": "b64dd728-ef3d-4707-83b0-98cbc3b850bb",
+      "name": "Tony Thomas"
+    },
+    {
+      "id": "b2482e1f-ddc8-4dd4-bc81-6ff8a79b820d",
+      "name": "Michael Finnell"
+    },
+    {
+      "id": "c157b38d-09ab-49f9-a709-e525eb6a9f03",
+      "name": "Sherry Lansing"
+    },
+    {
+      "id": "435d28e8-f8c2-4e45-84e3-78c8406663b2",
+      "name": "Renny Harlin"
+    },
+    {
+      "id": "d58fd1d6-d883-4fbe-ae21-34b6a135ed03",
+      "name": "Alan Marshall"
+    },
+    {
+      "id": "83db3fc5-0025-4855-94f0-e68243ea295c",
+      "name": "John McTiernan"
+    },
+    {
+      "id": "f206cf53-2f8d-43f6-96f6-4ddef466c7c7",
+      "name": "Stephen J. Roth"
+    },
+    {
+      "id": "00c06216-efc1-4408-bced-2156ee4d7382",
+      "name": "Robert Evans"
+    },
+    {
+      "id": "51fd2a96-a4b6-4afd-b1c1-a3c56742b9a1",
+      "name": "David Matalon"
+    },
+    {
+      "id": "79ccc0f5-1fa2-4e64-8420-4072b15e027c",
+      "name": "Rob Reiner"
+    },
+    {
+      "id": "c15e131e-c792-4476-b5b2-06a744c80377",
+      "name": "Alan Zweibel"
+    },
+    {
+      "id": "2ac4a252-3fe0-459c-bbb6-2d9056ba2789",
+      "name": "A. Kitman Ho"
+    },
+    {
+      "id": "f45f43fc-7614-481f-b1d7-b1382a22a22a",
+      "name": "Julius R. Nasso"
+    },
+    {
+      "id": "8d126eec-bd40-41f9-8c14-e8245eeeaf5f",
+      "name": "Steven Seagal"
+    },
+    {
+      "id": "28784001-e21b-4e79-ba86-42f7ad8ea6a4",
+      "name": "Charles Evans"
+    },
+    {
+      "id": "d41ab2f1-023b-4fd7-a38a-7da622f796c1",
+      "name": "Kathleen Kennedy"
+    },
+    {
+      "id": "702da5e0-b278-4edc-8647-f404d33c03ca",
+      "name": "Sam Mercer"
+    },
+    {
+      "id": "ccddff75-442b-4d15-b423-c17398766f68",
+      "name": "Charles B. Wessler"
+    },
+    {
+      "id": "ddf99661-3bcc-47b6-83b7-bf81517ce1a1",
+      "name": "Roland Joffé"
+    },
+    {
+      "id": "ec00fc4b-6076-43a5-8ab3-d82178f9513c",
+      "name": "Andrew G. Vajna"
+    },
+    {
+      "id": "950f6b28-b01b-4db6-8337-70c0a8a1d373",
+      "name": "John Davis"
+    },
+    {
+      "id": "0f19ba25-f282-419b-8086-83bfe9005992",
+      "name": "Andrew Bergman"
+    },
+    {
+      "id": "7a421417-214f-4e49-842c-7c69ddea10bf",
+      "name": "Todd Moyer"
+    },
+    {
+      "id": "5d1c82db-dbd3-4efe-a7d4-dd64afe68ad5",
+      "name": "Mike Richardson"
+    },
+    {
+      "id": "824c6c38-8159-47b8-aacb-6d3dd7863eef",
+      "name": "Brad Wyman"
+    },
+    {
+      "id": "d74938aa-9f9e-471e-adba-2e0a69d21145",
+      "name": "Rosalie Swedlin"
+    },
+    {
+      "id": "835528fa-3127-4f75-99f1-d2d9a89db00c",
+      "name": "Edward R. Pressman"
+    },
+    {
+      "id": "45d7a573-dc05-4015-b20d-38d0d916e25b",
+      "name": "Leslie Belzberg"
+    },
+    {
+      "id": "bb2e491a-aa6b-4883-a192-e3fc90fd5a2b",
+      "name": "Verna Harrah"
+    },
+    {
+      "id": "8c908073-edb2-4d29-981c-7ea700984c31",
+      "name": "Carole Little"
+    },
+    {
+      "id": "660de986-6487-467e-8e6b-bbef3ac80eb7",
+      "name": "Leonard Rabinowitz"
+    },
+    {
+      "id": "099cf40b-82d4-45c1-bcdf-ff8fd1084f0e",
+      "name": "Peter MacGregor-Scott"
+    },
+    {
+      "id": "57abf490-8582-41b1-8da8-976282a6ab69",
+      "name": "Jan de Bont"
+    },
+    {
+      "id": "5994c006-bb20-46ed-b892-fe8619494f63",
+      "name": "Steve Perry"
+    },
+    {
+      "id": "c7f59645-2b89-44da-bddb-5f00d8ac9f39",
+      "name": "Michael Peyser"
+    },
+    {
+      "id": "e284ca52-0830-4a1a-8961-4ca02df0bea6",
+      "name": "Ben Myron"
+    },
+    {
+      "id": "f6b25e03-8d90-4d22-b4ce-840e05904680",
+      "name": "Joe Eszterhas"
+    },
+    {
+      "id": "649d680b-98d7-44d2-8dab-84131cfc0ea9",
+      "name": "Michael Bay"
+    },
+    {
+      "id": "02d16da5-fdac-4b75-90e2-50f0984d90b0",
+      "name": "Jerry Bruckheimer"
+    },
+    {
+      "id": "8986a918-0a56-4d20-9b0b-79cf044d8436",
+      "name": "Roland Emmerich"
+    },
+    {
+      "id": "9092f052-f738-4327-b375-9dbf9587d11f",
+      "name": "Dean Devlin"
+    },
+    {
+      "id": "42481c74-34dd-45e9-b7ed-4e9bf86b8e80",
+      "name": "Uri Fruchtan"
+    },
+    {
+      "id": "154e9718-f09f-49e5-9f28-991c608d33e3",
+      "name": "Mark L. Rosen"
+    },
+    {
+      "id": "6c605e98-1ca3-47aa-b06c-3dc660c3b6f5",
+      "name": "Barnaby Thompson"
+    },
+    {
+      "id": "717ce20f-b783-49d9-8421-56b50fc7ffb7",
+      "name": "Barry Sonnenfeld"
+    },
+    {
+      "id": "5a30673c-7265-4409-a4c1-4653c1421ec9",
+      "name": "Sidney Ganis"
+    },
+    {
+      "id": "670cdb35-723b-4883-8f0f-cb4f73610b99",
+      "name": "Jack Giarraputo"
+    },
+    {
+      "id": "14066358-7f0e-4d18-b515-79bf38e3d094",
+      "name": "Robin Cowie"
+    },
+    {
+      "id": "99765946-cf17-423e-96ca-2c4aca39c0bd",
+      "name": "Gregg Hale"
+    },
+    {
+      "id": "081e49bc-de5e-460d-98f3-899e22d9d7cd",
+      "name": "Susan Arthur"
+    },
+    {
+      "id": "61a31746-85dc-496e-b323-a9750552ee9f",
+      "name": "Donna Roth"
+    },
+    {
+      "id": "234abf47-eebe-4519-8396-30250e0f5db0",
+      "name": "Colin Wilson"
+    },
+    {
+      "id": "555d54e3-16a7-4b5d-ad5e-249945ca7f7e",
+      "name": "Rick McCallum"
+    },
+    {
+      "id": "957e84fb-c09c-4cf3-a571-5b01e31fb895",
+      "name": "George Lucas"
+    },
+    {
+      "id": "fb550be2-545a-4d5b-aae0-ef50dcf6d0d7",
+      "name": "Jonathan D. Krane"
+    },
+    {
+      "id": "c78deeb9-2f2b-4373-a72a-9b211c46a487",
+      "name": "Elie Samaha"
+    },
+    {
+      "id": "c5f4ee33-369d-423b-999b-5bd8f4aadb87",
+      "name": "John Travolta"
+    },
+    {
+      "id": "d262ea61-1dcd-4e49-8936-5ed8801b25c7",
+      "name": "Bill Carraro"
+    },
+    {
+      "id": "2f5cb24d-b3b4-4e3c-8cf0-227fa5d82218",
+      "name": "Bruce Cohen"
+    },
+    {
+      "id": "85160b1b-269c-463b-8932-5c11a66a530f",
+      "name": "Robert Simonds"
+    },
+    {
+      "id": "f7cdc996-9d8e-42c4-8763-a82d85c03e67",
+      "name": "Leslie Dixon"
+    },
+    {
+      "id": "36664b5d-219c-41e4-a9f4-fb95e26bea2c",
+      "name": "Linne Radmin"
+    },
+    {
+      "id": "9e1f5402-8760-448c-8090-a2b363a5c900",
+      "name": "Tom Rosenberg"
+    },
+    {
+      "id": "492f21af-b8f2-48f5-a4f1-b2e23df10af7",
+      "name": "Larry Brezner"
+    },
+    {
+      "id": "0e7d1a5c-9f11-4e89-ad39-d95a9d582122",
+      "name": "Howard Lapides"
+    },
+    {
+      "id": "646a42c8-7095-487f-aa72-90e5968aa572",
+      "name": "Lauren Lloyd"
+    },
+    {
+      "id": "cb4b2d60-904f-4a8a-a447-7cc098629140",
+      "name": "Sylvester Stallone"
+    },
+    {
+      "id": "54e05122-dcda-4876-9550-7838c1757c73",
+      "name": "Laurence Mark"
+    },
+    {
+      "id": "e30188d6-aaef-4153-8160-d8d5ff175b74",
+      "name": "E. Bennett Walsh"
+    },
+    {
+      "id": "c7d2cb7b-7c31-4da7-ad5d-0b7bea0a703e",
+      "name": "Demian Lichtenstein"
+    },
+    {
+      "id": "55e60f71-3d5a-4230-9045-d4d1542fef73",
+      "name": "Eric Manes"
+    },
+    {
+      "id": "7d5b38fc-0908-4c50-bb22-f096502b3b74",
+      "name": "Richard Spero"
+    },
+    {
+      "id": "ed796590-8a4f-446c-8374-94c7b1ba35d7",
+      "name": "Andrew Stevens"
+    },
+    {
+      "id": "cb694261-ccbc-4abb-9f2e-31337e5896e4",
+      "name": "Matthew Vaughn"
+    },
+    {
+      "id": "2a056385-5ab5-4a03-a556-6c31fdf4c4ae",
+      "name": "Martin Bregman"
+    },
+    {
+      "id": "2cf8c8a4-cae5-478c-badc-409eadf45c5a",
+      "name": "Michael Scott Bregman"
+    },
+    {
+      "id": "211ecd52-400f-4cef-aed7-fa4d0c57753a",
+      "name": "Louis A. Stroller"
+    },
+    {
+      "id": "e295c75d-2969-433a-ac63-ef58c118b2f0",
+      "name": "Ann Carli"
+    },
+    {
+      "id": "f07a8e8c-77b8-4b1b-9f91-b88fb9682889",
+      "name": "Gianluigi Braschi"
+    },
+    {
+      "id": "1cc2f244-8700-4c5b-a565-c2e6af4ee1d5",
+      "name": "Nicoletta Braschi"
+    },
+    {
+      "id": "e9d6ca28-899f-4db3-bb21-918d15d06af4",
+      "name": "Elda Ferri"
+    },
+    {
+      "id": "0c7eb065-e36d-47c4-92c5-89554f60da89",
+      "name": "Martin Brest"
+    },
+    {
+      "id": "c613463d-6114-4cd3-adf7-123dd3d4b800",
+      "name": "Casey Silver"
+    },
+    {
+      "id": "9a447e7c-d8ab-42f7-bf2f-0605e8001eb2",
+      "name": "Brian Grazer"
+    },
+    {
+      "id": "295e928c-8460-4ba5-9946-6acd807f3aa2",
+      "name": "Drew Barrymore"
+    },
+    {
+      "id": "deba913f-59fb-4273-9f91-f9f30efd8240",
+      "name": "Leonard Goldberg"
+    },
+    {
+      "id": "b259d4e7-20da-44a7-90a2-416473e78d74",
+      "name": "Nancy Juvonen"
+    },
+    {
+      "id": "22e56f4a-8620-4158-adaa-c95993016096",
+      "name": "John Steven Agoglia"
+    },
+    {
+      "id": "7912e227-7635-418e-9a45-efe0068a63fe",
+      "name": "Mary-Ellis Bunim"
+    },
+    {
+      "id": "16967d3f-0e52-4599-bc93-dafa7dfdc546",
+      "name": "Jonathan Murray"
+    },
+    {
+      "id": "b7b6c50c-885f-4b2c-95be-c0058af70b2d",
+      "name": "Jamie Schutz"
+    },
+    {
+      "id": "b30130fd-5fd4-4676-8005-4a2aa811f592",
+      "name": "Rick de Oliveira"
+    },
+    {
+      "id": "f61b1381-422f-4789-a5cc-feecbeb51612",
+      "name": "Denise Di Novi"
+    },
+    {
+      "id": "df0c2ec4-4ae1-404e-b80e-0b127a23ba92",
+      "name": "Edward McDonnell"
+    },
+    {
+      "id": "6ca1df84-2612-4e85-8a0a-444b22556839",
+      "name": "Moritz Borman"
+    },
+    {
+      "id": "e8593a97-9806-4d50-b610-be3006d63891",
+      "name": "Jon Kilik"
+    },
+    {
+      "id": "98a800dd-22f1-47fe-bdce-e266335a5b07",
+      "name": "Thomas Schuhly"
+    },
+    {
+      "id": "57746aa2-c348-403e-bd27-900abcfdc39b",
+      "name": "Iain Smith"
+    },
+    {
+      "id": "e6028e88-6ce3-486d-a13c-2536bbdce092",
+      "name": "Steven Paul"
+    },
+    {
+      "id": "c47a15a5-7d4e-4d54-9098-1c6b15610874",
+      "name": "Betty Thomas"
+    },
+    {
+      "id": "5c2ed46f-ff97-4cf0-af66-b9f55bbe62f7",
+      "name": "Jenno Topping"
+    },
+    {
+      "id": "32fce574-e1f4-466a-986d-10f5e1d4d3d2",
+      "name": "Rick Alvarez"
+    },
+    {
+      "id": "8a1e5ebc-3bb4-49e3-b761-f4bb7d3e4647",
+      "name": "Lee R. Mayes"
+    },
+    {
+      "id": "c61f0088-b1bd-449d-ac5f-4eca9cc572ff",
+      "name": "Keenen Ivory Wayans"
+    },
+    {
+      "id": "719bd1e4-838b-4ace-b2a5-1353a39b5c28",
+      "name": "Marlon Wayans"
+    },
+    {
+      "id": "3a2b8077-714a-408e-a0f7-7b1f1e2c768c",
+      "name": "Shawn Wayans"
+    },
+    {
+      "id": "baa2e634-fe8e-4d75-8ebd-9079a2aca8ba",
+      "name": "John Mallory Asher"
+    },
+    {
+      "id": "c2bf45a6-98cd-406c-b320-e5f8a26784bf",
+      "name": "BJ Davis"
+    },
+    {
+      "id": "4d499c92-fa20-4e6d-8e2c-b358f4e4fb22",
+      "name": "Rod Hamilton"
+    },
+    {
+      "id": "eeb3382b-a151-4091-8ff0-04614aa3886b",
+      "name": "Kimberley Kates"
+    },
+    {
+      "id": "2fa3f4ac-150a-48ff-9c2c-5e7fff600b97",
+      "name": "Michael Manasseri"
+    },
+    {
+      "id": "a42eb120-d620-43af-b08a-9eae87755da0",
+      "name": "Jenny McCarthy"
+    },
+    {
+      "id": "5a54df6b-a7d4-4b4c-a520-cf2ebe9a15eb",
+      "name": "Trent Walford"
+    },
+    {
+      "id": "7bf9d6d2-1b08-44b0-b71d-29fa06c26c69",
+      "name": "Adam Sandler"
+    },
+    {
+      "id": "e58c04eb-ae89-4db3-a0a3-d2875b5c9e79",
+      "name": "Rob Schneider"
+    },
+    {
+      "id": "b95f97f4-eb72-43d7-9a34-b2b523ee2d7e",
+      "name": "Bill Gerber"
+    },
+    {
+      "id": "21f3cc6f-c554-488c-9879-441ddbaa9312",
+      "name": "Susan Levin"
+    },
+    {
+      "id": "323abae9-d4ee-4a46-bf12-b2f00cd95b53",
+      "name": "Robert Zemeckis"
+    },
+    {
+      "id": "51053eb3-35b6-4502-b922-a8a99c42996b",
+      "name": "Erica Huggins"
+    },
+    {
+      "id": "55fbb391-1311-4a79-af0f-de1818e6b214",
+      "name": "Scott Kroopf"
+    },
+    {
+      "id": "f9950c09-8cd3-4055-b870-7aed5f44e5f0",
+      "name": "Mario Kassar"
+    },
+    {
+      "id": "dfc4f1b4-5deb-490a-9073-0d83092c6f0f",
+      "name": "Joel B. Michaels"
+    },
+    {
+      "id": "30b414f1-2c23-4ed1-8980-30ea42caa118",
+      "name": "Uwe Boll"
+    },
+    {
+      "id": "06c2edf8-7927-42fd-967b-ab57562824f9",
+      "name": "Dan Clarke"
+    },
+    {
+      "id": "ea254dc0-ea76-4abc-ba0d-24d18e9c6cd9",
+      "name": "Wolfgang Herrold"
+    },
+    {
+      "id": "05d1e78d-0be7-45a5-b4b2-2ec252b7c24f",
+      "name": "Jose L. Rodriguez"
+    },
+    {
+      "id": "11a46539-ad55-41f7-8e6b-c3a589c15130",
+      "name": "M. Night Shyamalan"
+    },
+    {
+      "id": "fdb34542-a44f-4359-9850-fbca6bc210e7",
+      "name": "Rick Alvares"
+    },
+    {
+      "id": "cfd11632-e218-4142-8361-b2969a182f73",
+      "name": "Lee Mays"
+    },
+    {
+      "id": "31140f07-fb15-4263-b00d-3b8db42956a9",
+      "name": "Nicolas Cage"
+    },
+    {
+      "id": "71831633-7740-451c-b1fa-0b120543a73b",
+      "name": "Randall Emmett"
+    },
+    {
+      "id": "2120c82a-87a3-44ca-b0be-5ee9c3f12e37",
+      "name": "Norm Golightly"
+    },
+    {
+      "id": "509c5da8-c784-416a-be5b-bef1d9b7fb48",
+      "name": "Avi Lerner"
+    },
+    {
+      "id": "9e9e0794-c605-48f0-8627-c2fd9cc46c5e",
+      "name": "Joanne Sellar"
+    },
+    {
+      "id": "7b1bd88c-c9b4-4e88-afdf-fcb6b2ae99fc",
+      "name": "David Grace"
+    },
+    {
+      "id": "836a374f-463a-4545-b462-fca874d97508",
+      "name": "Frank Mancuso Jr."
+    },
+    {
+      "id": "b290a6ca-03c9-4d63-9309-f50d8d08f133",
+      "name": "Avi Arad"
+    },
+    {
+      "id": "07ca43ca-f991-4b8d-8b69-38077cb0c970",
+      "name": "Isaac Larian"
+    },
+    {
+      "id": "fbbb0e79-9802-48f8-9163-349ff16a12ed",
+      "name": "Matt Berenson"
+    },
+    {
+      "id": "cba828fe-4b6e-427c-906d-31ba475e0d96",
+      "name": "Wyck Godfrey"
+    },
+    {
+      "id": "23114ef5-3df5-4548-ac5b-1bb1a1fd2668",
+      "name": "Tom Shadyac"
+    },
+    {
+      "id": "d95ddd2d-c2c2-44f5-bd8e-e72df48c9155",
+      "name": "Eddie Murphy"
+    },
+    {
+      "id": "c119a011-ac57-425c-943e-2093d5e7e620",
+      "name": "Michael Tollin"
+    },
+    {
+      "id": "291ed0d2-8092-414d-83bd-fbc44a7b8253",
+      "name": "Gary Barber"
+    },
+    {
+      "id": "ace51775-a14c-485f-b378-8b4e9bc57e60",
+      "name": "Michael DeLuca"
+    },
+    {
+      "id": "c9a2bb57-c8ea-46cb-9ac1-2525f654112f",
+      "name": "Mike Myers"
+    },
+    {
+      "id": "d86c4d7b-1ba3-4bce-af7f-7506ff0518bc",
+      "name": "Jason Friedberg"
+    },
+    {
+      "id": "d53b3b5f-02ed-40a5-91d5-1c658053199e",
+      "name": "Peter Safran"
+    },
+    {
+      "id": "e2e25aeb-fd61-416c-a16d-83f346e7f3a0",
+      "name": "Aaron Seltzer"
+    },
+    {
+      "id": "e0bbde7b-0421-46ed-a103-48089cbec5b6",
+      "name": "Barry Mendel"
+    },
+    {
+      "id": "6dc3802d-1e22-4125-8d94-ca2cd948e737",
+      "name": "Hadeel Reda"
+    },
+    {
+      "id": "94a146e8-aaf5-4b4f-9ac8-d7fdd4f36479",
+      "name": "Shawn Williamson"
+    },
+    {
+      "id": "7472e95f-c140-4e96-ad18-ad07e9aafc8c",
+      "name": "Lorenzo di Bonaventura"
+    },
+    {
+      "id": "af837527-ede7-4b8d-835b-70691d6ec6fb",
+      "name": "Ian Bryce"
+    },
+    {
+      "id": "00d33c92-9513-419c-a5d3-7c59efa4f142",
+      "name": "Tom DeSanto"
+    },
+    {
+      "id": "bbbb49be-c3b7-4dc8-99d1-72c7b696a74a",
+      "name": "Don Murphy"
+    },
+    {
+      "id": "b8d984e0-5ec5-41a9-8b29-5bf5eed5d9b1",
+      "name": "Sandra Bullock"
+    },
+    {
+      "id": "fa760a20-247a-48bd-9f44-7baaf7dd6f13",
+      "name": "Mary McLaglen"
+    },
+    {
+      "id": "d226f478-d0f3-4933-9037-ba40eaa588fb",
+      "name": "Bob Ducsay"
+    },
+    {
+      "id": "4938178a-9716-4fa8-ac64-fb5bae4643cf",
+      "name": "Brian Goldner"
+    },
+    {
+      "id": "9aaad207-cb0d-472e-be83-0ce1633c1e58",
+      "name": "Sid"
+    },
+    {
+      "id": "fdc6a183-451d-4f48-84c6-7755a163033a",
+      "name": "Marty Krofft"
+    },
+    {
+      "id": "b6dd8984-da84-4a37-9e9f-7cea09761916",
+      "name": "Jimmy Miller"
+    },
+    {
+      "id": "21765ed7-cea3-43cf-a0b7-7e361100f436",
+      "name": "Peter Abrams"
+    },
+    {
+      "id": "0aabfa7e-a990-4100-921d-9ed9770e9cc3",
+      "name": "Robert Levy"
+    },
+    {
+      "id": "8391b1ac-c2c4-4d78-b86a-4013edad6d07",
+      "name": "Andrew Panay"
+    },
+    {
+      "id": "6dee65b5-5740-4704-acfe-84827166c5eb",
+      "name": "Frank Marshall"
+    },
+    {
+      "id": "b3ecb424-e559-4031-987e-d58ee9e4ff4d",
+      "name": "Neal H. Moritz"
+    },
+    {
+      "id": "86efe150-5ff4-40b1-9bac-5268dcf648ef",
+      "name": "Michael Patrick King"
+    },
+    {
+      "id": "29ece9e7-3fac-46d1-a831-1a79e6837ee2",
+      "name": "John Melfi"
+    },
+    {
+      "id": "592c1ad6-1862-4eb2-876d-51a17b457f7a",
+      "name": "Sarah Jessica Parker"
+    },
+    {
+      "id": "8c7db88e-6976-4c08-9d3e-58e75d66c615",
+      "name": "Darren Star"
+    },
+    {
+      "id": "3c32e14a-7dce-4c8a-b142-420e765af424",
+      "name": "Karen Rosenfelt"
+    },
+    {
+      "id": "a4ca2723-71ef-4076-b625-f4d0cad84f73",
+      "name": "Todd Garner"
+    },
+    {
+      "id": "bc8efbc0-7f60-411b-bce0-1fb60d49f2f3",
+      "name": "Barry Bernardi"
+    },
+    {
+      "id": "d6d7768b-83a8-4f6a-8a2c-fe882bdf3080",
+      "name": "Allen Covert"
+    },
+    {
+      "id": "41f9684b-a408-4f6b-808e-efa58541e92f",
+      "name": "David Dorfman"
+    },
+    {
+      "id": "25518850-c183-42e1-9ef5-a0752d1be9cb",
+      "name": "Mike Karz"
+    },
+    {
+      "id": "e50c38b2-dd22-4d0e-b684-ea317b5ecd45",
+      "name": "Garry Marshall"
+    },
+    {
+      "id": "ff9041c3-960f-4c96-9131-c229ce024c34",
+      "name": "Wayne Allan Rice"
+    },
+    {
+      "id": "37f36d90-4bba-4408-9769-9c39f2ba2ea1",
+      "name": "Stephenie Meyer"
+    },
+    {
+      "id": "0bb64894-3523-411b-87c5-dea89052d64c",
+      "name": "Sarah Aubrey"
+    },
+    {
+      "id": "be5f9ff6-d5d7-489b-9095-51c07a54c0f0",
+      "name": "Peter Berg"
+    },
+    {
+      "id": "ba5a4da9-2001-486b-a32b-c0efbf280dbd",
+      "name": "Duncan Henderson"
+    },
+    {
+      "id": "7351bdc4-e79f-4cc8-a8aa-2534876a9442",
+      "name": "Bennett Schneir"
+    },
+    {
+      "id": "675f32e4-1f4a-4157-958c-30e51bb5bbec",
+      "name": "Scott Stuber"
+    },
+    {
+      "id": "bb97c200-5346-4cbd-96a3-4c005ddc3523",
+      "name": "Gayle Dickie"
+    },
+    {
+      "id": "6aebcfa4-4e86-4748-92c0-54492d19637c",
+      "name": "Kenn Viselman"
+    },
+    {
+      "id": "0a29eec8-25fd-4059-915b-869eee7c1765",
+      "name": "Heather Parry"
+    },
+    {
+      "id": "735f707d-3894-4b01-a0ca-af9b3859dbd0",
+      "name": "Alain Chabat"
+    },
+    {
+      "id": "6ec2e7e5-b1b4-4cba-884d-de3b0a58320e",
+      "name": "Stephanie Danan"
+    },
+    {
+      "id": "03a9523d-f403-4212-8621-9fbc1120800a",
+      "name": "Norman Golightly"
+    },
+    {
+      "id": "93b92049-d06c-4d0c-81e1-7ae3c5679323",
+      "name": "Brian Robbinsand Sharla Sumpter Bridgett"
+    },
+    {
+      "id": "719db353-3c9d-4bc8-a2cd-ab5a9586728a",
+      "name": "Peter Farrelly"
+    },
+    {
+      "id": "5ce00dec-36eb-43fb-b6af-a53aefedd55a",
+      "name": "Ryan Kavanaugh"
+    },
+    {
+      "id": "69024ce8-243e-4e2f-9933-2eb6472b29e2",
+      "name": "John Penotti"
+    },
+    {
+      "id": "a7f09d25-96cb-4f1f-a99f-ff3dc60c66ac",
+      "name": "James Lassiter"
+    },
+    {
+      "id": "ee7ec8b7-ef6c-4d20-83c8-b6225d710844",
+      "name": "Caleeb Pinkett"
+    },
+    {
+      "id": "e587dd5c-8fd2-4ff7-ba9d-c595103485d6",
+      "name": "Jada Pinkett Smith"
+    },
+    {
+      "id": "5b1b2442-65a3-44e1-b108-30effb902b91",
+      "name": "Will Smith"
+    },
+    {
+      "id": "e8d82eb3-0eaa-4add-b24a-da16634ac8d5",
+      "name": "Jaden Smith"
+    },
+    {
+      "id": "2bfdb0e8-b70f-4a39-a87d-5b0c96b8ee84",
+      "name": "Gore Verbinski"
+    },
+    {
+      "id": "8570d736-fc10-4974-a590-2fceaf611069",
+      "name": "Ozzie Areu"
+    },
+    {
+      "id": "b71c4abf-56d3-48f6-8c77-0a410acb503e",
+      "name": "Matt Moore"
+    },
+    {
+      "id": "283212fe-18a3-49cb-bc28-d80cc107fb1c",
+      "name": "Tyler Perry"
+    },
+    {
+      "id": "4e83bc41-7af7-45dd-b8bf-6e6e4a872873",
+      "name": "Darren Doane"
+    },
+    {
+      "id": "c2a2d309-5bd4-47c6-aeea-338a47f95604",
+      "name": "Raphi Henley"
+    },
+    {
+      "id": "f0b48eaf-15c4-4c17-8376-9d33ee0723f1",
+      "name": "Amanda Rosser"
+    },
+    {
+      "id": "04ccb1be-bad4-47a5-a539-2f4acdbe0816",
+      "name": "David Shannon"
+    },
+    {
+      "id": "2b879b60-c3a9-430e-b25e-31016a95e8dd",
+      "name": "Michael Walker"
+    },
+    {
+      "id": "85615c66-d9f1-49d0-8869-d02466ab4317",
+      "name": "Paul LaLonde"
+    },
+    {
+      "id": "d14657c3-de18-4af1-905f-e5a9b217b80a",
+      "name": "Boaz Davidson"
+    },
+    {
+      "id": "763bb01d-b9ed-4605-b7d5-22e5f0672c73",
+      "name": "Danny Lerner"
+    },
+    {
+      "id": "31d370b1-a794-4fdd-af16-832ed81d809a",
+      "name": "Les Weldon"
+    },
+    {
+      "id": "6c871115-ba0e-4c6b-a8ca-3acf89274a37",
+      "name": "Andrew Form"
+    },
+    {
+      "id": "acf8b72d-0dbd-4e57-8726-14226a9471db",
+      "name": "Bradley Fuller"
+    },
+    {
+      "id": "80c2db52-2001-4590-95fe-baedcf489126",
+      "name": "Scott Mednick"
+    },
+    {
+      "id": "0043dc14-6abf-44b6-94a1-48093d045abd",
+      "name": "Galen Walker"
+    },
+    {
+      "id": "d65bb3c1-d441-4cd2-b4d2-d205fb80754a",
+      "name": "Simon Kinberg"
+    },
+    {
+      "id": "1680de98-6c90-4c78-ae34-e0b1848a0775",
+      "name": "Hutch Parker"
+    },
+    {
+      "id": "b533334a-4bd4-4e9e-b565-2feb96591a2c",
+      "name": "Robert Kulzer"
+    },
+    {
+      "id": "607dc248-8c40-444e-b2b3-a22b574d47fc",
+      "name": "Gregory Goodman"
+    },
+    {
+      "id": "31fd0c94-8746-453c-a92c-6faf61b7d6b7",
+      "name": "Michael De Luca"
+    },
+    {
+      "id": "e80fc14e-0ac4-4949-9bc8-9111e21eb4ff",
+      "name": "Dana Brunetti"
+    },
+    {
+      "id": "2751474e-fdd2-4381-a815-c1ec64113052",
+      "name": "E. L. James"
+    },
+    {
+      "id": "a131185c-aacc-46f0-ba94-0f4458c7f8d7",
+      "name": "Grant Hill"
+    },
+    {
+      "id": "e1910564-7058-45c0-893a-d0791f7f9479",
+      "name": "The Wachowskis"
+    },
+    {
+      "id": "6cf4e313-ffb6-48a8-9868-82decd8f443c",
+      "name": "Kevin James"
+    },
+    {
+      "id": "5dec5536-43e5-4a16-8c33-f2b3c16e14e5",
+      "name": "Chris Columbus"
+    },
+    {
+      "id": "64ec6a67-2173-4148-8529-786d47af2d8f",
+      "name": "Mark Radcliffe"
+    },
+    {
+      "id": "aab976d8-b9e7-4b69-8391-337556bc7b43",
+      "name": "Gerald R. Molen"
+    },
+    {
+      "id": "ac6d444e-481b-47cc-a25c-3db7203e6ab2",
+      "name": "Deborah Snyder"
+    },
+    {
+      "id": "feb12b42-468d-42ac-887f-db725029fb18",
+      "name": "Bill Block"
+    },
+    {
+      "id": "8960566b-a274-4f66-9d41-2c8cf1485280",
+      "name": "Michael Simkin"
+    },
+    {
+      "id": "d4aa9601-17c0-4cb7-b482-185a3a3bdfc9",
+      "name": "Jason Barrett"
+    },
+    {
+      "id": "00b63e80-7db8-4cd7-a011-ccc5684c6dd5",
+      "name": "Barry Josephson"
+    },
+    {
+      "id": "90cce968-5800-47e6-8e7e-41d57353ebaf",
+      "name": "Basil Iwanyk"
+    },
+    {
+      "id": "b84c091d-cb52-477d-ad27-aa8ff4e0a355",
+      "name": "Alex Proyas"
+    },
+    {
+      "id": "7c60f940-ad96-4b4d-b58d-8a955308866d",
+      "name": "Harald Kloser"
+    },
+    {
+      "id": "4eb22c06-db1c-46d3-b803-599e2faa2da7",
+      "name": "Stuart Cornfeld"
+    },
+    {
+      "id": "9eb9c871-aca8-4abe-b874-5602f3877e5e",
+      "name": "Scott Rudin"
+    },
+    {
+      "id": "04732a23-6e70-4d64-809c-af2ffdc65d8e",
+      "name": "Ben Stiller"
+    },
+    {
+      "id": "04d9dd45-c37a-4b23-bebf-667dbb848d54",
+      "name": "Clayton Townsend"
+    },
+    {
+      "id": "27ef7f65-dd49-49d9-94ad-276b60ec4efe",
+      "name": "Michelle Raimo Kouyate"
+    },
+    {
+      "id": "38803ac6-c48e-40ec-99f6-99d46723e338",
+      "name": "Ivan Reitman"
+    },
+    {
+      "id": "76b0aca1-51a3-4f91-83ee-50892badaedf",
+      "name": "Michael Berk"
+    },
+    {
+      "id": "e95c49a0-7bdf-42e6-a3e9-c69af934cc55",
+      "name": "Douglas Schwartz"
+    },
+    {
+      "id": "1baddf8a-2795-4435-8d99-6a646c481809",
+      "name": "Gregory J. Bonann"
+    },
+    {
+      "id": "a35ffc38-7dba-47b3-b5ea-1c43e7ecc745",
+      "name": "Beau Flynn"
+    },
+    {
+      "id": "4529bf98-16ff-4190-9242-f40f2cfde67b",
+      "name": "Marcus Viscidi"
+    },
+    {
+      "id": "688c7d33-80c5-4214-9f19-be0a147bac3a",
+      "name": "Alex Kurtzman"
+    },
+    {
+      "id": "e4cfe831-2350-4dab-b03a-a7f892e2af25",
+      "name": "Chris Morgan"
+    },
+    {
+      "id": "de4008b2-3e32-4051-a954-e327151b5e35",
+      "name": "Sean Daniel"
+    },
+    {
+      "id": "e734007d-fd08-49f2-a6a5-ce308b0b3a83",
+      "name": "Sarah Bradshaw"
+    },
+    {
+      "id": "fff2676e-dd0b-4c73-bd60-13481f50d2e1",
+      "name": "Will Ferrell"
+    },
+    {
+      "id": "9e69827f-8e01-4935-ab74-6552ba673465",
+      "name": "Adam McKay"
+    },
+    {
+      "id": "31858acb-399d-4c00-86f0-f4a007317760",
+      "name": "Marc Fiore"
+    },
+    {
+      "id": "aedc1abe-8803-4770-8ce7-53b7da6528d4",
+      "name": "Michael Froch"
+    },
+    {
+      "id": "7fa3bd6f-d31d-4969-97f8-39868f9956fa",
+      "name": "George Furla"
+    },
+    {
+      "id": "76061ea6-bf24-4435-b14f-87c9c69bbc79",
+      "name": "Ben Falcone"
+    },
+    {
+      "id": "f4633ee9-e1da-408e-af85-d80de07e85a6",
+      "name": "Jeffrey Hayes"
+    },
+    {
+      "id": "380f400c-da9f-45f5-9cdd-467ebfb95355",
+      "name": "Brian Henson"
+    },
+    {
+      "id": "55b5884d-2034-47a0-92fa-0d4758a9f0fc",
+      "name": "Melissa McCarthy"
+    },
+    {
+      "id": "168a1214-d4c0-468f-82b7-d3e27c084c9b",
+      "name": "Jennifer Davisson"
+    },
+    {
+      "id": "d5d45e47-134e-412b-aead-01999c501f1d",
+      "name": "Leonardo DiCaprio"
+    },
+    {
+      "id": "cf35d1d3-8ddc-4849-889d-c69816d1d3c3",
+      "name": "Tim McGahan"
+    },
+    {
+      "id": "62ce4ad7-501c-4ab0-be5d-f5a3976baec1",
+      "name": "Brett Tomberlin"
+    },
+    {
+      "id": "2c11c797-4218-45f7-bfa7-939ae860af26",
+      "name": "Debra Hayward"
+    },
+    {
+      "id": "0c4d826b-6c0e-4aad-af6f-b5ade0ca4652",
+      "name": "Tim Bevan"
+    },
+    {
+      "id": "7c3d3e63-22b2-4e5f-bffc-fcfa14899a67",
+      "name": "Eric Fellner"
+    },
+    {
+      "id": "2277988d-27a3-421f-88b4-6ff4f8267fc5",
+      "name": "and Tom Hooper"
+    },
+    {
+      "id": "a74ef898-7620-4fc0-b856-4da38f6a1411",
+      "name": "Daniel Grodnik"
+    },
+    {
+      "id": "fc67b5ac-bbf8-4d80-a0c0-03d308a41b9d",
+      "name": "Oscar Generale"
+    },
+    {
+      "id": "17dcc198-675b-423b-bef1-a876bd5f39f9",
+      "name": "and Bill Kenwright"
+    },
+    {
+      "id": "7186cdeb-fb92-4140-ab52-3d8bdc0543b0",
+      "name": "Lucas Jarach"
+    },
+    {
+      "id": "4f9eb761-4a43-4c78-9960-f43214998a48",
+      "name": "Daniel Farrands"
+    },
+    {
+      "id": "0293cc85-22c5-4f84-bb49-9aa13c12d7da",
+      "name": "and Eric Brenner"
+    },
+    {
+      "id": "b9481014-88d4-43bb-aa0a-5831f4676312",
+      "name": "Will Areu"
+    },
+    {
+      "id": "0d7b5718-edb2-412d-a30b-e3a8a44bd39a",
+      "name": "and Mark E. Swinton"
+    },
+    {
+      "id": "afce7ef4-e8f2-435c-b902-a265a25756dc",
+      "name": "Kevin King Templeton"
+    },
+    {
+      "id": "5de618a3-f55d-4e9f-ae7e-8c08e0d13c3f",
+      "name": "Yariv Lerner"
+    },
+    {
+      "id": "f8aaf755-a2fd-416f-a375-abe7e8f725b8",
+      "name": "and Les Weldon"
+    }
+  ]
+}
