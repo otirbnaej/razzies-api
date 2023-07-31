@@ -4,14 +4,14 @@ import db from '@src/shared/infra/lowdb/db';
 import { v4 as uuidv4 } from 'uuid';
 
 import { IMovieDTO } from '@src/modules/movies/dtos/IMovieDTO';
-import { ClearDB } from '@src/utils/clearDB';
-
-const allStudios: string[] = [];
-const allProducers: string[] = [];
+import { ClearDB } from '@src/utils/ClearDB';
 
 export default class ImportCSVService {
   public async execute(filepath: string) {
+    const allStudios: string[] = [];
+    const allProducers: string[] = [];
     ClearDB();
+
     fs.createReadStream(filepath)
       .pipe(csvParser({ separator: ';' }))
       .on('data', row => {
