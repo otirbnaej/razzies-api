@@ -1,6 +1,6 @@
 import db from '@src/shared/infra/lowdb/db';
 
-export const clearDB = () => {
+export const ClearDB = () => {
   db.setState({}).write();
 
   if (!db.has('movies').value()) {
